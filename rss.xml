@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PersonalBlog - a blog starter for GatsbyJS]]></title><description><![CDATA[PersonalBlog is a GatsbyJS starter.]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Mar 2018 10:53:00 GMT</lastBuildDate><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/you-only-live-once/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/you-only-live-once/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;On deer horse aboard tritely yikes and much&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-a2f90.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.6444740346205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/2gAMAwEAAhADEAAAAYmLwU4KTb//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQISITH/2gAIAQEAAQUCm2p0XqqfH4I//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAgBAgEBPwHVf//EABkQAAMAAwAAAAAAAAAAAAAAAAABEQIQMf/aAAgBAQAGPwJYs4Umqf/EABwQAQACAgMBAAAAAAAAAAAAAAEAIRExUXHB0f/aAAgBAQABPyEkK3UfhiJDpeIex7BzySxpc//aAAwDAQACAAMAAAAQPx//xAAWEQADAAAAAAAAAAAAAAAAAAAQITH/2gAIAQMBAT8QiD//xAAYEQACAwAAAAAAAAAAAAAAAAAAARFBUf/aAAgBAgEBPxDTJWf/xAAfEAEAAgICAgMAAAAAAAAAAAABABEhQTGRUXGhscH/2gAIAQEAAT8QxwrVG3b5hYXJbFb7OPqLSZqD5iBe6lvaPwaWe9Sx6N0l1r8n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-bbf57.jpg 200w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-260b8.jpg 400w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-893a4.jpg 800w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-25965.jpg 1200w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-a2f90.jpg 1502w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
+bad Commas, wild Question Marks and devious Semikoli, but the Little
+Blind Text didn’t listen. She packed her seven versalia, put her initial
+into the belt and made herself on the way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This however showed weasel&lt;/li&gt;
+&lt;li&gt;Well uncritical so misled&lt;/li&gt;
+&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/be-who-you-are/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/be-who-you-are/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;h2&gt;H2 Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h2&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus.&lt;/p&gt;
+&lt;h3&gt;H3 Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Rviverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-71a0a.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.279382135661514%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/9oADAMBAAIQAxAAAAGahNEwCH//xAAbEAADAAIDAAAAAAAAAAAAAAAAAQIDExESMf/aAAgBAQABBQKayUePdCNc8uJZ0lH/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AYyp/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Bp//EABoQAAICAwAAAAAAAAAAAAAAAAAREiExkaH/2gAIAQEABj8CdFx0J8GizB//xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhQXFh/9oACAEBAAE/Ie8b3C7lKR3wMvqJn1HuEgU9cEhn/9oADAMBAAIAAwAAABD7L//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8Qw1OkH//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QavHhT//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACFBUWGxwdH/2gAIAQEAAT8QfsKarg1fOWhN2QTvTiJK0g57wAhD5EfcRoHD+2BIQO3P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-bbf57.jpg 200w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-260b8.jpg 400w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-893a4.jpg 800w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-25965.jpg 1200w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-71a0a.jpg 1489w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/two-things-are-infinite/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/two-things-are-infinite/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHE42Q40x//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMhBBEi/9oACAEBAAEFAkjYKVYqSN4twz8sxv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/AciP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Adqv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECEBEhEjEyQdH/2gAIAQEABj8C1S4kntY9M9YE1T//xAAdEAADAAEFAQAAAAAAAAAAAAAAARGBITFBYXHB/9oACAEBAAE/IWLQZZGAnEjbk10G9x4E2lavwo8P/9oADAMBAAIAAwAAABCMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBAyZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFq0WD//xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAUTFBYaH/2gAIAQEAAT8QhoAZWUbDLWMAAyHDTE7zQHaWOKFFBe+0fcoAekfacanJkIJoWc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-bbf57.jpg 200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-260b8.jpg 400w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-893a4.jpg 800w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-25965.jpg 1200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/people-will-forget/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/people-will-forget/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
+bad Commas, wild Question Marks and devious Semikoli, but the Little
+Blind Text didn’t listen. She packed her seven versalia, put her initial
+into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAASawZwlR/8QAGxAAAwACAwAAAAAAAAAAAAAAAQIDABESEzL/2gAIAQEAAQUCUcqVUA4Zdb19rMa//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQESES/9oACAEBAAY/AtMTUdJlR//EABoQAAMBAQEBAAAAAAAAAAAAAAABESFhMXH/2gAIAQEAAT8hzqnrhgo6Jsht/Cq6GtNn/9oADAMBAAIAAwAAABAjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQWFx/9oACAEBAAE/EAXW0OUMB6QCOtlwBpwvRiOb7iV0Gn7laxvWs//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-bbf57.jpg 200w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-260b8.jpg 400w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-893a4.jpg 800w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-25965.jpg 1200w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-am-so-clever/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-am-so-clever/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-4c229.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.679894179894184%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAASuHiSYsf//EABsQAQACAgMAAAAAAAAAAAAAAAEAAwIREiEx/9oACAEBAAEFAqCyZWcxSb60Eff/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwFX/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAECAQE/Aax//8QAGxAAAQUBAQAAAAAAAAAAAAAAEQABAhASQYH/2gAIAQEABj8C1GQZDTeUOItX/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPyEliLd6ijXel8wD2W35bI8onsTbM//aAAwDAQACAAMAAAAQ+B//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8Qmqf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCB/8QAGhABAQEBAAMAAAAAAAAAAAAAAREAIUFhgf/aAAgBAQABPxAExa7UezIpA6BX0y8SvMDKqgMDg41F6hrOsnu//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-bbf57.jpg 200w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-260b8.jpg 400w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-893a4.jpg 800w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-25965.jpg 1200w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-4c229.jpg 1512w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;The Big Oxmox&lt;/a&gt; advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Proin bibendum ullamcorper rutrum.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/imperfection-is-beauty/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/imperfection-is-beauty/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-db84b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.22516556291392%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABuWCjMYzD/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECAyEEERP/2gAIAQEAAQUC7uFmcLkKSUbKP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYj/xAAZEQABBQAAAAAAAAAAAAAAAAAAARESE2H/2gAIAQIBAT8BkrFmH//EABkQAQACAwAAAAAAAAAAAAAAAAAxMgIQEf/aAAgBAQAGPwKqFWPNQ//EABwQAQACAQUAAAAAAAAAAAAAAAEAIRExQXGR0f/aAAgBAQABPyHMeoZ28wTr7jUFi5Uu4iY//9oADAMBAAIAAwAAABDf7//EABcRAAMBAAAAAAAAAAAAAAAAAAABURH/2gAIAQMBAT8QTU1T/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EHARH//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFBUWGhkf/aAAgBAQABPxAAp30PIUzG+PyUhXsKRaodObMxQULb3Lw+p//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-bbf57.jpg 200w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-260b8.jpg 400w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-893a4.jpg 800w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-25965.jpg 1200w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-db84b.jpg 1510w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/there-are-only-two/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/there-are-only-two/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB5+7yY2qJD//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREiH/2gAIAQEAAQUCqq7gOPsVRwUBt9n/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFREBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQIBAT8BWf/EABsQAAIDAAMAAAAAAAAAAAAAAAABAhEhEDFB/9oACAEBAAY/AreIcGti/ONLOz//xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhYTFBUbH/2gAIAQEAAT8h55FywT8SDRpjQ8jy8XSJjiED/9oADAMBAAIAAwAAABCoL//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCGx//EABcRAQADAAAAAAAAAAAAAAAAAAABEUH/2gAIAQIBAT8QnZb/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMVFhcUH/2gAIAQEAAT8QcNWbFS+wgwg2TiKYhavQgsA1RQnB8m1niZQ78iTY85yXP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-bbf57.jpg 200w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-260b8.jpg 400w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-893a4.jpg 800w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-25965.jpg 1200w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have not failed. I've just found 10,000 ways that won't work]]></title><description><![CDATA[Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-have-not-failed/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-have-not-failed/</guid><content:encoded>&lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-273e5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 46.08233731739708%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAByOzlwwgf/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIxAxIiM0L/2gAIAQEAAQUCVLQXyM1tXTT/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASf/xAAYEAACAwAAAAAAAAAAAAAAAAAAASAhMf/aAAgBAQAGPwK2bH//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhMXH/2gAIAQEAAT8hS99GVdIuNx4g/9oADAMBAAIAAwAAABBrz//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAETH/2gAIAQIBAT8Qwj//xAAaEAEAAgMBAAAAAAAAAAAAAAABACERMaGx/9oACAEBAAE/ECpIXoIWLNWxKCX252Hs5ybZ/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-bbf57.jpg 200w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-260b8.jpg 400w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-893a4.jpg 800w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-25965.jpg 1200w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-273e5.jpg 1506w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/good-friends/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/good-friends/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-a2f90.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.6444740346205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAHMg74hCT//xAAYEAEBAAMAAAAAAAAAAAAAAAABABARIf/aAAgBAQABBQIMciW3f//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8BU0jP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPwE3F//EABYQAAMAAAAAAAAAAAAAAAAAAAARIP/aAAgBAQAGPwIU/wD/xAAXEAEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEBAAE/Iac3qSOTJe3/2gAMAwEAAgADAAAAEOjf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EEbNcY//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhQf/aAAgBAgEBPxBdqJR//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARIUFRcTH/2gAIAQEAAT8QDAUewUjO3CLbbPIqD8YK2L7U0hP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-bbf57.jpg 200w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-260b8.jpg 400w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-893a4.jpg 800w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-25965.jpg 1200w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-a2f90.jpg 1502w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I may not have gone where I intended to go]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-may-not-have-gone/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-may-not-have-gone/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.73333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG5jNlIVCf/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDEiET/9oACAEBAAEFApritMb6sUnnJpJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAADEg/9oACAEBAAY/AsRH/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQMSFBUf/aAAgBAQABPyFYrXGT0YaD5T//2gAMAwEAAgADAAAAEAgP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EJqP/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARIUFRYXH/2gAIAQEAAT8QqNgTxNP2BbZ2OBIyW09i3Yf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-bbf57.jpg 200w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-260b8.jpg 400w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-893a4.jpg 800w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-25965.jpg 1200w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I like nonsense, it wakes up the brain cells]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/like-nonsense/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/like-nonsense/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-5c962.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.02185792349726%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAW7lvZonAV//xAAbEAEAAgIDAAAAAAAAAAAAAAABAAIREwMSMf/aAAgBAQABBQLUZ1jCnUORhdzb3//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwGYj//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAaEAACAgMAAAAAAAAAAAAAAAAAARARITFB/9oACAEBAAY/AsNUVZpHJ//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMVFhcbH/2gAIAQEAAT8hx73vxKyA09x6BPLMV+IhYC3UTtP/2gAMAwEAAgADAAAAEHzP/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQMBAT8QWgl//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QHP8A/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUeH/2gAIAQEAAT8Q3VuhfqCH/DRgA/toW4vB6aJcrnaKVybRLRln/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-bbf57.jpg 200w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-260b8.jpg 400w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-893a4.jpg 800w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-25965.jpg 1200w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-5c962.jpg 1464w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-ceaa7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 577px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.80242634315424%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAAsSAAALEgHS3X78AAACJUlEQVQoz41TWWsaURi9f8x/4YsLCD4WqbhRNSqC2hQxRR/0VWqEGumb4IMktk1JaUQSDJQKbbQtSdNUZ19cZusZp1qhpHgYLmfu3POdb7lDXC5XKBQKBAKxWCyVSvl8PrvdHo/Hg8Gg3++vVquZTGZ//1mlUolGoziTTqdLpVI2m7XZbKTdbhuGoaqqsYaqKrqurd904x8oioI1kUiQRqMBNp3+EgSOZWmOY/DQ9BRcEPj1jrnyHINjLEPP53NI3G43KZfLVjBN0xiGkWV546Drpq0kSTRNUxQ1mUxEUdw4e71eUqvVwL7ff1TUpSTJ0go4tFwu9RXwioioCxqs2MEnSAqFAsnlcmB302uIcUhA9kiRYazcLOcNt8L9FUciEbDR7QXEPM9DSa+wESDcbDbbbhgKxOp0Okk+nwdjhYmqqdhV1wC3fLQV9C1YNTscDoIJgzGU2UxZFlmWQtbbk3toVJg2OTh4DvZj+lkUzdrgZDX5P7BC47aQvb2EWfPNlSzPFouFsQMsZ4/H82fOP+/uOY7FjHSzo9ouYoyJwH0lnizmirLUdncuFoskHDZHdTk8/jQ+G359f33b+3JzLs14NBi9RxpW87c7b83ZvJ7ZzFPDWLw4fvTqXfzlm/DR2yeHJ48p/tvmej7knEwmSTKZYhi60Tx8fdo5PTu5vDq/GHxoNo/q9Xqv1xsOh51OBz/PeDwejUatVqvf73e73cFggH/2N2roTlqWW9TmAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;test&quot;
+        title=&quot;&quot;
+        src=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-ceaa7.png&quot;
+        srcset=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-dfb3d.png 200w,
+/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-8ffd2.png 400w,
+/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-ceaa7.png 577w&quot;
+        sizes=&quot;(max-width: 577px) 100vw, 577px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/two-things-are-infinite-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/two-things-are-infinite-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHE42Q40x//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMhBBEi/9oACAEBAAEFAkjYKVYqSN4twz8sxv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/AciP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Adqv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECEBEhEjEyQdH/2gAIAQEABj8C1S4kntY9M9YE1T//xAAdEAADAAEFAQAAAAAAAAAAAAAAARGBITFBYXHB/9oACAEBAAE/IWLQZZGAnEjbk10G9x4E2lavwo8P/9oADAMBAAIAAwAAABCMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBAyZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFq0WD//xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAUTFBYaH/2gAIAQEAAT8QhoAZWUbDLWMAAyHDTE7zQHaWOKFFBe+0fcoAekfacanJkIJoWc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-bbf57.jpg 200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-260b8.jpg 400w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-893a4.jpg 800w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-25965.jpg 1200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/be-who-you-are-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/be-who-you-are-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-71a0a.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.279382135661514%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/9oADAMBAAIQAxAAAAGahNEwCH//xAAbEAADAAIDAAAAAAAAAAAAAAAAAQIDExESMf/aAAgBAQABBQKayUePdCNc8uJZ0lH/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AYyp/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Bp//EABoQAAICAwAAAAAAAAAAAAAAAAAREiExkaH/2gAIAQEABj8CdFx0J8GizB//xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhQXFh/9oACAEBAAE/Ie8b3C7lKR3wMvqJn1HuEgU9cEhn/9oADAMBAAIAAwAAABD7L//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8Qw1OkH//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QavHhT//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACFBUWGxwdH/2gAIAQEAAT8QfsKarg1fOWhN2QTvTiJK0g57wAhD5EfcRoHD+2BIQO3P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-bbf57.jpg 200w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-260b8.jpg 400w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-893a4.jpg 800w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-25965.jpg 1200w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-71a0a.jpg 1489w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/you-only-live-once-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/you-only-live-once-2/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;On deer horse aboard tritely yikes and much&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-a2f90.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.6444740346205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/2gAMAwEAAhADEAAAAYmLwU4KTb//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQISITH/2gAIAQEAAQUCm2p0XqqfH4I//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAgBAgEBPwHVf//EABkQAAMAAwAAAAAAAAAAAAAAAAABEQIQMf/aAAgBAQAGPwJYs4Umqf/EABwQAQACAgMBAAAAAAAAAAAAAAEAIRExUXHB0f/aAAgBAQABPyEkK3UfhiJDpeIex7BzySxpc//aAAwDAQACAAMAAAAQPx//xAAWEQADAAAAAAAAAAAAAAAAAAAQITH/2gAIAQMBAT8QiD//xAAYEQACAwAAAAAAAAAAAAAAAAAAARFBUf/aAAgBAgEBPxDTJWf/xAAfEAEAAgICAgMAAAAAAAAAAAABABEhQTGRUXGhscH/2gAIAQEAAT8QxwrVG3b5hYXJbFb7OPqLSZqD5iBe6lvaPwaWe9Sx6N0l1r8n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-bbf57.jpg 200w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-260b8.jpg 400w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-893a4.jpg 800w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-25965.jpg 1200w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-a2f90.jpg 1502w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
+bad Commas, wild Question Marks and devious Semikoli, but the Little
+Blind Text didn’t listen. She packed her seven versalia, put her initial
+into the belt and made herself on the way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This however showed weasel&lt;/li&gt;
+&lt;li&gt;Well uncritical so misled&lt;/li&gt;
+&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/people-will-forget-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/people-will-forget-2/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
+bad Commas, wild Question Marks and devious Semikoli, but the Little
+Blind Text didn’t listen. She packed her seven versalia, put her initial
+into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAASawZwlR/8QAGxAAAwACAwAAAAAAAAAAAAAAAQIDABESEzL/2gAIAQEAAQUCUcqVUA4Zdb19rMa//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQESES/9oACAEBAAY/AtMTUdJlR//EABoQAAMBAQEBAAAAAAAAAAAAAAABESFhMXH/2gAIAQEAAT8hzqnrhgo6Jsht/Cq6GtNn/9oADAMBAAIAAwAAABAjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQWFx/9oACAEBAAE/EAXW0OUMB6QCOtlwBpwvRiOb7iV0Gn7laxvWs//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-bbf57.jpg 200w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-260b8.jpg 400w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-893a4.jpg 800w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-25965.jpg 1200w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-am-so-clever-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-am-so-clever-2/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-4c229.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.679894179894184%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAASuHiSYsf//EABsQAQACAgMAAAAAAAAAAAAAAAEAAwIREiEx/9oACAEBAAEFAqCyZWcxSb60Eff/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwFX/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAECAQE/Aax//8QAGxAAAQUBAQAAAAAAAAAAAAAAEQABAhASQYH/2gAIAQEABj8C1GQZDTeUOItX/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPyEliLd6ijXel8wD2W35bI8onsTbM//aAAwDAQACAAMAAAAQ+B//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8Qmqf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCB/8QAGhABAQEBAAMAAAAAAAAAAAAAAREAIUFhgf/aAAgBAQABPxAExa7UezIpA6BX0y8SvMDKqgMDg41F6hrOsnu//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-bbf57.jpg 200w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-260b8.jpg 400w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-893a4.jpg 800w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-25965.jpg 1200w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-4c229.jpg 1512w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;The Big Oxmox&lt;/a&gt; advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Proin bibendum ullamcorper rutrum.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/imperfection-is-beauty-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/imperfection-is-beauty-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-db84b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.22516556291392%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABuWCjMYzD/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECAyEEERP/2gAIAQEAAQUC7uFmcLkKSUbKP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYj/xAAZEQABBQAAAAAAAAAAAAAAAAAAARESE2H/2gAIAQIBAT8BkrFmH//EABkQAQACAwAAAAAAAAAAAAAAAAAxMgIQEf/aAAgBAQAGPwKqFWPNQ//EABwQAQACAQUAAAAAAAAAAAAAAAEAIRExQXGR0f/aAAgBAQABPyHMeoZ28wTr7jUFi5Uu4iY//9oADAMBAAIAAwAAABDf7//EABcRAAMBAAAAAAAAAAAAAAAAAAABURH/2gAIAQMBAT8QTU1T/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EHARH//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFBUWGhkf/aAAgBAQABPxAAp30PIUzG+PyUhXsKRaodObMxQULb3Lw+p//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-bbf57.jpg 200w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-260b8.jpg 400w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-893a4.jpg 800w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-25965.jpg 1200w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-db84b.jpg 1510w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/there-are-only-two-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/there-are-only-two-2/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB5+7yY2qJD//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREiH/2gAIAQEAAQUCqq7gOPsVRwUBt9n/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFREBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQIBAT8BWf/EABsQAAIDAAMAAAAAAAAAAAAAAAABAhEhEDFB/9oACAEBAAY/AreIcGti/ONLOz//xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhYTFBUbH/2gAIAQEAAT8h55FywT8SDRpjQ8jy8XSJjiED/9oADAMBAAIAAwAAABCoL//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCGx//EABcRAQADAAAAAAAAAAAAAAAAAAABEUH/2gAIAQIBAT8QnZb/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMVFhcUH/2gAIAQEAAT8QcNWbFS+wgwg2TiKYhavQgsA1RQnB8m1niZQ78iTY85yXP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-bbf57.jpg 200w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-260b8.jpg 400w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-893a4.jpg 800w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-25965.jpg 1200w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/good-friends-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/good-friends-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-a2f90.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.6444740346205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAHMg74hCT//xAAYEAEBAAMAAAAAAAAAAAAAAAABABARIf/aAAgBAQABBQIMciW3f//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8BU0jP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPwE3F//EABYQAAMAAAAAAAAAAAAAAAAAAAARIP/aAAgBAQAGPwIU/wD/xAAXEAEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEBAAE/Iac3qSOTJe3/2gAMAwEAAgADAAAAEOjf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EEbNcY//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhQf/aAAgBAgEBPxBdqJR//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARIUFRcTH/2gAIAQEAAT8QDAUewUjO3CLbbPIqD8YK2L7U0hP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-bbf57.jpg 200w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-260b8.jpg 400w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-893a4.jpg 800w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-25965.jpg 1200w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-a2f90.jpg 1502w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have not failed. I've just found 10,000 ways that won't work]]></title><description><![CDATA[Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-have-not-failed-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-have-not-failed-2/</guid><content:encoded>&lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-273e5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 46.08233731739708%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAByOzlwwgf/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIxAxIiM0L/2gAIAQEAAQUCVLQXyM1tXTT/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASf/xAAYEAACAwAAAAAAAAAAAAAAAAAAASAhMf/aAAgBAQAGPwK2bH//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhMXH/2gAIAQEAAT8hS99GVdIuNx4g/9oADAMBAAIAAwAAABBrz//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAETH/2gAIAQIBAT8Qwj//xAAaEAEAAgMBAAAAAAAAAAAAAAABACERMaGx/9oACAEBAAE/ECpIXoIWLNWxKCX252Hs5ybZ/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-bbf57.jpg 200w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-260b8.jpg 400w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-893a4.jpg 800w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-25965.jpg 1200w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-273e5.jpg 1506w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I may not have gone where I intended to go]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-may-not-have-gone-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-may-not-have-gone-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.73333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG5jNlIVCf/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDEiET/9oACAEBAAEFApritMb6sUnnJpJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAADEg/9oACAEBAAY/AsRH/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQMSFBUf/aAAgBAQABPyFYrXGT0YaD5T//2gAMAwEAAgADAAAAEAgP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EJqP/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARIUFRYXH/2gAIAQEAAT8QqNgTxNP2BbZ2OBIyW09i3Yf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-bbf57.jpg 200w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-260b8.jpg 400w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-893a4.jpg 800w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-25965.jpg 1200w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I like nonsense, it wakes up the brain cells]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/like-nonsense-2/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/like-nonsense-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-5c962.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.02185792349726%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAW7lvZonAV//xAAbEAEAAgIDAAAAAAAAAAAAAAABAAIREwMSMf/aAAgBAQABBQLUZ1jCnUORhdzb3//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwGYj//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAaEAACAgMAAAAAAAAAAAAAAAAAARARITFB/9oACAEBAAY/AsNUVZpHJ//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMVFhcbH/2gAIAQEAAT8hx73vxKyA09x6BPLMV+IhYC3UTtP/2gAMAwEAAgADAAAAEHzP/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQMBAT8QWgl//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QHP8A/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUeH/2gAIAQEAAT8Q3VuhfqCH/DRgA/toW4vB6aJcrnaKVybRLRln/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-bbf57.jpg 200w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-260b8.jpg 400w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-893a4.jpg 800w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-25965.jpg 1200w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-5c962.jpg 1464w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-ceaa7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 577px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.80242634315424%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAAsSAAALEgHS3X78AAACJUlEQVQoz41TWWsaURi9f8x/4YsLCD4WqbhRNSqC2hQxRR/0VWqEGumb4IMktk1JaUQSDJQKbbQtSdNUZ19cZusZp1qhpHgYLmfu3POdb7lDXC5XKBQKBAKxWCyVSvl8PrvdHo/Hg8Gg3++vVquZTGZ//1mlUolGoziTTqdLpVI2m7XZbKTdbhuGoaqqsYaqKrqurd904x8oioI1kUiQRqMBNp3+EgSOZWmOY/DQ9BRcEPj1jrnyHINjLEPP53NI3G43KZfLVjBN0xiGkWV546Drpq0kSTRNUxQ1mUxEUdw4e71eUqvVwL7ff1TUpSTJ0go4tFwu9RXwioioCxqs2MEnSAqFAsnlcmB302uIcUhA9kiRYazcLOcNt8L9FUciEbDR7QXEPM9DSa+wESDcbDbbbhgKxOp0Okk+nwdjhYmqqdhV1wC3fLQV9C1YNTscDoIJgzGU2UxZFlmWQtbbk3toVJg2OTh4DvZj+lkUzdrgZDX5P7BC47aQvb2EWfPNlSzPFouFsQMsZ4/H82fOP+/uOY7FjHSzo9ouYoyJwH0lnizmirLUdncuFoskHDZHdTk8/jQ+G359f33b+3JzLs14NBi9RxpW87c7b83ZvJ7ZzFPDWLw4fvTqXfzlm/DR2yeHJ48p/tvmej7knEwmSTKZYhi60Tx8fdo5PTu5vDq/GHxoNo/q9Xqv1xsOh51OBz/PeDwejUatVqvf73e73cFggH/2N2roTlqWW9TmAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;test&quot;
+        title=&quot;&quot;
+        src=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-ceaa7.png&quot;
+        srcset=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-dfb3d.png 200w,
+/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-8ffd2.png 400w,
+/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-ceaa7.png 577w&quot;
+        sizes=&quot;(max-width: 577px) 100vw, 577px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/two-things-are-infinite-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/two-things-are-infinite-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHE42Q40x//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMhBBEi/9oACAEBAAEFAkjYKVYqSN4twz8sxv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/AciP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Adqv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECEBEhEjEyQdH/2gAIAQEABj8C1S4kntY9M9YE1T//xAAdEAADAAEFAQAAAAAAAAAAAAAAARGBITFBYXHB/9oACAEBAAE/IWLQZZGAnEjbk10G9x4E2lavwo8P/9oADAMBAAIAAwAAABCMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBAyZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFq0WD//xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAUTFBYaH/2gAIAQEAAT8QhoAZWUbDLWMAAyHDTE7zQHaWOKFFBe+0fcoAekfacanJkIJoWc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-bbf57.jpg 200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-260b8.jpg 400w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-893a4.jpg 800w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-25965.jpg 1200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/be-who-you-are-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/be-who-you-are-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-71a0a.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.279382135661514%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/9oADAMBAAIQAxAAAAGahNEwCH//xAAbEAADAAIDAAAAAAAAAAAAAAAAAQIDExESMf/aAAgBAQABBQKayUePdCNc8uJZ0lH/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AYyp/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Bp//EABoQAAICAwAAAAAAAAAAAAAAAAAREiExkaH/2gAIAQEABj8CdFx0J8GizB//xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhQXFh/9oACAEBAAE/Ie8b3C7lKR3wMvqJn1HuEgU9cEhn/9oADAMBAAIAAwAAABD7L//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8Qw1OkH//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QavHhT//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACFBUWGxwdH/2gAIAQEAAT8QfsKarg1fOWhN2QTvTiJK0g57wAhD5EfcRoHD+2BIQO3P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-bbf57.jpg 200w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-260b8.jpg 400w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-893a4.jpg 800w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-25965.jpg 1200w,
+/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-71a0a.jpg 1489w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/you-only-live-once-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/you-only-live-once-3/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;On deer horse aboard tritely yikes and much&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-a2f90.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.6444740346205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/2gAMAwEAAhADEAAAAYmLwU4KTb//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQISITH/2gAIAQEAAQUCm2p0XqqfH4I//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAgBAgEBPwHVf//EABkQAAMAAwAAAAAAAAAAAAAAAAABEQIQMf/aAAgBAQAGPwJYs4Umqf/EABwQAQACAgMBAAAAAAAAAAAAAAEAIRExUXHB0f/aAAgBAQABPyEkK3UfhiJDpeIex7BzySxpc//aAAwDAQACAAMAAAAQPx//xAAWEQADAAAAAAAAAAAAAAAAAAAQITH/2gAIAQMBAT8QiD//xAAYEQACAwAAAAAAAAAAAAAAAAAAARFBUf/aAAgBAgEBPxDTJWf/xAAfEAEAAgICAgMAAAAAAAAAAAABABEhQTGRUXGhscH/2gAIAQEAAT8QxwrVG3b5hYXJbFb7OPqLSZqD5iBe6lvaPwaWe9Sx6N0l1r8n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-bbf57.jpg 200w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-260b8.jpg 400w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-893a4.jpg 800w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-25965.jpg 1200w,
+/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-a2f90.jpg 1502w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
+bad Commas, wild Question Marks and devious Semikoli, but the Little
+Blind Text didn’t listen. She packed her seven versalia, put her initial
+into the belt and made herself on the way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This however showed weasel&lt;/li&gt;
+&lt;li&gt;Well uncritical so misled&lt;/li&gt;
+&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/people-will-forget-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/people-will-forget-3/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
+bad Commas, wild Question Marks and devious Semikoli, but the Little
+Blind Text didn’t listen. She packed her seven versalia, put her initial
+into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAASawZwlR/8QAGxAAAwACAwAAAAAAAAAAAAAAAQIDABESEzL/2gAIAQEAAQUCUcqVUA4Zdb19rMa//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQESES/9oACAEBAAY/AtMTUdJlR//EABoQAAMBAQEBAAAAAAAAAAAAAAABESFhMXH/2gAIAQEAAT8hzqnrhgo6Jsht/Cq6GtNn/9oADAMBAAIAAwAAABAjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQWFx/9oACAEBAAE/EAXW0OUMB6QCOtlwBpwvRiOb7iV0Gn7laxvWs//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-bbf57.jpg 200w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-260b8.jpg 400w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-893a4.jpg 800w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-25965.jpg 1200w,
+/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/imperfection-is-beauty-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/imperfection-is-beauty-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-db84b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.22516556291392%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABuWCjMYzD/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECAyEEERP/2gAIAQEAAQUC7uFmcLkKSUbKP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYj/xAAZEQABBQAAAAAAAAAAAAAAAAAAARESE2H/2gAIAQIBAT8BkrFmH//EABkQAQACAwAAAAAAAAAAAAAAAAAxMgIQEf/aAAgBAQAGPwKqFWPNQ//EABwQAQACAQUAAAAAAAAAAAAAAAEAIRExQXGR0f/aAAgBAQABPyHMeoZ28wTr7jUFi5Uu4iY//9oADAMBAAIAAwAAABDf7//EABcRAAMBAAAAAAAAAAAAAAAAAAABURH/2gAIAQMBAT8QTU1T/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EHARH//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFBUWGhkf/aAAgBAQABPxAAp30PIUzG+PyUhXsKRaodObMxQULb3Lw+p//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-bbf57.jpg 200w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-260b8.jpg 400w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-893a4.jpg 800w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-25965.jpg 1200w,
+/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-db84b.jpg 1510w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-am-so-clever-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-am-so-clever-3/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-4c229.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.679894179894184%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAASuHiSYsf//EABsQAQACAgMAAAAAAAAAAAAAAAEAAwIREiEx/9oACAEBAAEFAqCyZWcxSb60Eff/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwFX/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAECAQE/Aax//8QAGxAAAQUBAQAAAAAAAAAAAAAAEQABAhASQYH/2gAIAQEABj8C1GQZDTeUOItX/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPyEliLd6ijXel8wD2W35bI8onsTbM//aAAwDAQACAAMAAAAQ+B//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8Qmqf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCB/8QAGhABAQEBAAMAAAAAAAAAAAAAAREAIUFhgf/aAAgBAQABPxAExa7UezIpA6BX0y8SvMDKqgMDg41F6hrOsnu//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-bbf57.jpg 200w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-260b8.jpg 400w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-893a4.jpg 800w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-25965.jpg 1200w,
+/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-4c229.jpg 1512w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;The Big Oxmox&lt;/a&gt; advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Proin bibendum ullamcorper rutrum.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/good-friends-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/good-friends-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-a2f90.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.6444740346205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAHMg74hCT//xAAYEAEBAAMAAAAAAAAAAAAAAAABABARIf/aAAgBAQABBQIMciW3f//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8BU0jP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPwE3F//EABYQAAMAAAAAAAAAAAAAAAAAAAARIP/aAAgBAQAGPwIU/wD/xAAXEAEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEBAAE/Iac3qSOTJe3/2gAMAwEAAgADAAAAEOjf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EEbNcY//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhQf/aAAgBAgEBPxBdqJR//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARIUFRcTH/2gAIAQEAAT8QDAUewUjO3CLbbPIqD8YK2L7U0hP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-bbf57.jpg 200w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-260b8.jpg 400w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-893a4.jpg 800w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-25965.jpg 1200w,
+/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-a2f90.jpg 1502w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have not failed. I've just found 10,000 ways that won't work]]></title><description><![CDATA[Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-have-not-failed-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-have-not-failed-3/</guid><content:encoded>&lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-273e5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 46.08233731739708%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAByOzlwwgf/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIxAxIiM0L/2gAIAQEAAQUCVLQXyM1tXTT/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASf/xAAYEAACAwAAAAAAAAAAAAAAAAAAASAhMf/aAAgBAQAGPwK2bH//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhMXH/2gAIAQEAAT8hS99GVdIuNx4g/9oADAMBAAIAAwAAABBrz//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAETH/2gAIAQIBAT8Qwj//xAAaEAEAAgMBAAAAAAAAAAAAAAABACERMaGx/9oACAEBAAE/ECpIXoIWLNWxKCX252Hs5ybZ/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-bbf57.jpg 200w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-260b8.jpg 400w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-893a4.jpg 800w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-25965.jpg 1200w,
+/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-273e5.jpg 1506w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I may not have gone where I intended to go]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/i-may-not-have-gone-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/i-may-not-have-gone-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.73333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG5jNlIVCf/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDEiET/9oACAEBAAEFApritMb6sUnnJpJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAADEg/9oACAEBAAY/AsRH/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQMSFBUf/aAAgBAQABPyFYrXGT0YaD5T//2gAMAwEAAgADAAAAEAgP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EJqP/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARIUFRYXH/2gAIAQEAAT8QqNgTxNP2BbZ2OBIyW09i3Yf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-bbf57.jpg 200w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-260b8.jpg 400w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-893a4.jpg 800w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-25965.jpg 1200w,
+/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/there-are-only-two-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/there-are-only-two-3/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-d2039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB5+7yY2qJD//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREiH/2gAIAQEAAQUCqq7gOPsVRwUBt9n/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFREBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQIBAT8BWf/EABsQAAIDAAMAAAAAAAAAAAAAAAABAhEhEDFB/9oACAEBAAY/AreIcGti/ONLOz//xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhYTFBUbH/2gAIAQEAAT8h55FywT8SDRpjQ8jy8XSJjiED/9oADAMBAAIAAwAAABCoL//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCGx//EABcRAQADAAAAAAAAAAAAAAAAAAABEUH/2gAIAQIBAT8QnZb/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMVFhcUH/2gAIAQEAAT8QcNWbFS+wgwg2TiKYhavQgsA1RQnB8m1niZQ78iTY85yXP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-bbf57.jpg 200w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-260b8.jpg 400w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-893a4.jpg 800w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-25965.jpg 1200w,
+/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-d2039.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Success]]></title><description><![CDATA[Thank you. I will answer to the message as soon as possible.]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/success/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/success/</guid><content:encoded>&lt;p&gt;Thank you. I will answer to the message as soon as possible.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[This is a demo site of the  Personal Blog   GatsbyJs  starter. The starter is a ready to use, easy to customize ‘like theme’ starter. It has…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/about/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/about/</guid><content:encoded>&lt;p&gt;This is a demo site of the &lt;a href=&quot;https://github.com/greglobinski/gatsby-starter-personal-blog&quot;&gt;Personal&lt;strong&gt;Blog&lt;/strong&gt;&lt;/a&gt; &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt; starter.&lt;/p&gt;
+&lt;p&gt;The starter is a ready to use, easy to customize ‘like theme’ starter. It has everything what blog should have and some more.&lt;/p&gt;
+&lt;h3&gt;Standard features:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy editable content in &lt;strong&gt;Markdown&lt;/strong&gt; files (posts, pages and parts)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SEO&lt;/strong&gt; (sitemap generation, robot.txt, meta and OpenGraph Tags)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social&lt;/strong&gt; sharing (Twitter, Facebook, Google, LinkedIn)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comments&lt;/strong&gt; (Facebook)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Images&lt;/strong&gt; lazy loading and &lt;code&gt;webp&lt;/code&gt; support (gatsby-image)&lt;/li&gt;
+&lt;li&gt;Post &lt;strong&gt;categories&lt;/strong&gt; (post list filtering)&lt;/li&gt;
+&lt;li&gt;Full text &lt;strong&gt;searching&lt;/strong&gt; (Algolia)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt; form (Netlify form handling)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RSS&lt;/strong&gt; feed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PWA&lt;/strong&gt; (manifes.json, offline support, favicons)&lt;/li&gt;
+&lt;li&gt;Google &lt;strong&gt;Analytics&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Favicons&lt;/strong&gt; generator (node script)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Material UI&lt;/strong&gt; (@next)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Advanced features:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy customizable base &lt;strong&gt;styles&lt;/strong&gt; via &lt;code&gt;theme&lt;/code&gt; object (fonts, colors, sizes)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Components&lt;/strong&gt; leazy loading (social sharing, comments)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ESLint&lt;/strong&gt; (google config)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prettier&lt;/strong&gt; code styling&lt;/li&gt;
+&lt;li&gt;Custom webpack &lt;code&gt;CommonsChunkPlugin&lt;/code&gt; settings&lt;/li&gt;
+&lt;li&gt;Webpack &lt;code&gt;BundleAnalyzerPlugin&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Contact &lt;strong&gt;form validation&lt;/strong&gt; (react-material-ui-form-validator)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;About me&lt;/h2&gt;
+&lt;p&gt;My name is &lt;strong&gt;Greg&lt;/strong&gt;. I am a front-end web developer. I love working with &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;. I love the UX it delivers out of the box for the end users and DX it provides to me as a developer. I decided to share the love by contributing in this way, sharing my code as starters. I hope somebody find that useful.&lt;/p&gt;
+&lt;p&gt;For sure it’s not my last &lt;a href=&quot;/starters&quot;&gt;Gatsby starter&lt;/a&gt;. If you want to be in touch follow my on Twitter &lt;a href=&quot;https://twitter.com/greglobinski&quot;&gt;@greglobinski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PS: Please be understanding. The English language is not my native language. If you find any bug or not clear words you can always do PR to &lt;a href=&quot;https://github.com/greglobinski/gatsby-starter-personal-blog&quot;&gt;gatsby-starter-personal-blog&lt;/a&gt;, the repo contains the actual code of this demo.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Other GatsbyJs starters]]></title><description><![CDATA[Personal Blog  is not my first  GatsbyJs  starter. SimpleLanding As the name says, it is a simple landing page.
+ Demo  |  Github repo…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/starters/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/starters/</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/greglobinski/gatsby-starter-personal-blog&quot;&gt;Personal&lt;strong&gt;Blog&lt;/strong&gt;&lt;/a&gt; is not my first &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt; starter.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/gatsby-starter-simple-landing-3494b63cc6347858cbda9823e24ee1aa-d2c20.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 47.36456808199122%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABfklEQVQoz21Sy0rDQBTN97ntRtGVX+DCvT8ggkI3IuJCsK0FUeiuCNY+kuZNmnlkHg3ifxxnpiYt1cUhd86998zJveNRSvEfGGMtOOebmG9jLjnUl4JQwpw5qqqCEAJeI2ALLSmlhNYaSinHtQI2Ztt4nSnU0xoy1WAV+ytIqSWFEdKo17UTJYS0l+27XXUzjE5HmD4uILVwl7WCJSkx9z/ghxP4ywkWy0/MZjMEwdIgQFEUzkEjaHuKborn4z6iYYxKbnK2xiOEOidJFiJKfKRZhDSPEMcx0jR1yLLMibaCzPTc5Hg4uMdkPHVjav7AK8sSFkE4xzJcGIczhFGAJEmcSJO3cMsyi7EGogsfb50BhoMh9Fq7vOU9O7cVyXE9OMFV/xCXTx3cvZ4Z+5sl7cItxvDMzPv9fIyXox76tz2otXJizqG1K6VASVOsfkFYjg2/hR34LrjPkY9z5IscXPD2RXhNUFW2SUEa2O++u9ZhU68q1N/m2WgJSmg73x/fu2z531M3TQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Simple**Landing**&quot;
+        title=&quot;&quot;
+        src=&quot;/static/gatsby-starter-simple-landing-3494b63cc6347858cbda9823e24ee1aa-42603.png&quot;
+        srcset=&quot;/static/gatsby-starter-simple-landing-3494b63cc6347858cbda9823e24ee1aa-f931c.png 200w,
+/static/gatsby-starter-simple-landing-3494b63cc6347858cbda9823e24ee1aa-e8031.png 400w,
+/static/gatsby-starter-simple-landing-3494b63cc6347858cbda9823e24ee1aa-42603.png 800w,
+/static/gatsby-starter-simple-landing-3494b63cc6347858cbda9823e24ee1aa-5b8b9.png 1200w,
+/static/gatsby-starter-simple-landing-3494b63cc6347858cbda9823e24ee1aa-d2c20.png 1366w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;SimpleLanding&lt;/h3&gt;
+&lt;p&gt;As the name says, it is a simple landing page.
+&lt;a href=&quot;https://gatsby-starter-simple-landing.greglobinski.com/&quot;&gt;Demo&lt;/a&gt; | &lt;a href=&quot;https://github.com/greglobinski/gatsby-starter-simple-landing&quot;&gt;Github repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/gatsby-styled-blog-starter-b503c22609fe4756f2162a602a9bc73a-2c516.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 47.36456808199122%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAW7JzSsKD//EABoQAAICAwAAAAAAAAAAAAAAAAECAzMABBL/2gAIAQEAAQUChcIBOhVT2ooOa9P/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwFn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECEXEDUf/aAAgBAQAGPwKcvEXcizpgsEf/xAAbEAACAwEBAQAAAAAAAAAAAAAAAREhsWFRof/aAAgBAQABPyFxZhLpdI3dyLFoWb9Pj6Yjbp//2gAMAwEAAgADAAAAEO/P/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/ECq//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EACEQAAECBAcAAAAAAAAAAAAAAAEAERAhMfBBUWFxgaGx/9oACAEBAAE/EAuvRU2OjDiGF5oZoB2B5GDlxou16L//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Styled**Blog**&quot;
+        title=&quot;&quot;
+        src=&quot;/static/gatsby-styled-blog-starter-b503c22609fe4756f2162a602a9bc73a-893a4.jpg&quot;
+        srcset=&quot;/static/gatsby-styled-blog-starter-b503c22609fe4756f2162a602a9bc73a-bbf57.jpg 200w,
+/static/gatsby-styled-blog-starter-b503c22609fe4756f2162a602a9bc73a-260b8.jpg 400w,
+/static/gatsby-styled-blog-starter-b503c22609fe4756f2162a602a9bc73a-893a4.jpg 800w,
+/static/gatsby-styled-blog-starter-b503c22609fe4756f2162a602a9bc73a-25965.jpg 1200w,
+/static/gatsby-styled-blog-starter-b503c22609fe4756f2162a602a9bc73a-2c516.jpg 1366w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;StyledBlog&lt;/h3&gt;
+&lt;p&gt;That is my first Gatsby starter. It is a forefather of the starter’s demo you are looking at now. It will not be develop or update any longer.
+&lt;a href=&quot;https://gsbs.greglobinski.com&quot;&gt;Demo&lt;/a&gt; | &lt;a href=&quot;https://github.com/greglobinski/gatsby-styled-blog-starter&quot;&gt;Github repo&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[info]]></title><description><![CDATA[I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/info/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/info/</guid><content:encoded>&lt;p&gt;I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[copyright]]></title><description><![CDATA[I am a wealthy man and the owner of a luxurious mansion where extravagant parties are often hosted]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/copyright/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/copyright/</guid><content:encoded>&lt;p&gt;I am a wealthy man and the owner of a luxurious mansion where extravagant parties are often hosted&lt;/p&gt;</content:encoded></item><item><title><![CDATA[author]]></title><description><![CDATA[Mr. Gatsby  Proin ornare ligula eu tellus tempus elementum. Aenean  bibendum  iaculis mi, nec blandit lacus interdum vitae. Vestibulum non…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/author/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/author/</guid><content:encoded>&lt;p&gt;&lt;strong&gt;Mr. Gatsby&lt;/strong&gt; Proin ornare ligula eu tellus tempus elementum. Aenean &lt;a href=&quot;/&quot;&gt;bibendum&lt;/a&gt; iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:&lt;/p&gt;</content:encoded></item><item><title><![CDATA[footnote]]></title><description><![CDATA[this is a demo site of the  gatsby-starter-personal-blog built by  greg lobinski with  Gatsby  &  React source code on  GitHub deliverd by…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/footnote/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/footnote/</guid><content:encoded>&lt;ul&gt;
+&lt;li&gt;this is a demo site of the &lt;a href=&quot;https://github.com/greglobinski/gatsby-starter-personal-blog&quot;&gt;gatsby-starter-personal-blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;built by &lt;a href=&quot;https://www.greglobinski.com&quot;&gt;greg lobinski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;with &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt; &amp;#x26; &lt;a href=&quot;https://reactjs.org&quot;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;source code on &lt;a href=&quot;https://github.com/greglobinski/gatsby-starter-personal-blog&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;deliverd by &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;photos by &lt;a href=&quot;https://unsplash.com&quot;&gt;unsplash.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[I like nonsense, it wakes up the brain cells]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://gatsby-starter-personal-blog.greglobinski.com/like-nonsense-3/</link><guid isPermaLink="false">https://gatsby-starter-personal-blog.greglobinski.com/like-nonsense-3/</guid><pubDate>Thu, 23 Jan 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-5c962.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.02185792349726%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAW7lvZonAV//xAAbEAEAAgIDAAAAAAAAAAAAAAABAAIREwMSMf/aAAgBAQABBQLUZ1jCnUORhdzb3//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwGYj//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAaEAACAgMAAAAAAAAAAAAAAAAAARARITFB/9oACAEBAAY/AsNUVZpHJ//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMVFhcbH/2gAIAQEAAT8hx73vxKyA09x6BPLMV+IhYC3UTtP/2gAMAwEAAgADAAAAEHzP/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQMBAT8QWgl//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QHP8A/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUeH/2gAIAQEAAT8Q3VuhfqCH/DRgA/toW4vB6aJcrnaKVybRLRln/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-893a4.jpg&quot;
+        srcset=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-bbf57.jpg 200w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-260b8.jpg 400w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-893a4.jpg 800w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-25965.jpg 1200w,
+/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-5c962.jpg 1464w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
+&lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; lang &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token regex&quot;&gt;/\blang(?:uage)?-(\w+)\b/i&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; uniqueId &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item></channel></rss>
