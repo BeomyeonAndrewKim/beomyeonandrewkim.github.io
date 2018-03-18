@@ -624,8 +624,8 @@ exports.modules = {
 	    }),
 	    _react2.default.createElement(
 	      _gatsbyLink2.default,
-	      { to: "/contact/", onClick: linkOnClick, className: classes.link, "data-shape": "closed" },
-	      "Contact"
+	      { to: "/javascript/", onClick: linkOnClick, className: classes.link, "data-shape": "closed" },
+	      "Javascript"
 	    )
 	  );
 	};
