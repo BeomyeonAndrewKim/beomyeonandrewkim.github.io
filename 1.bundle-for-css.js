@@ -625,6 +625,11 @@ webpackJsonp([1],{
 	      _gatsbyLink2.default,
 	      { to: "/javascript/", onClick: linkOnClick, className: classes.link, "data-shape": "closed" },
 	      "Javascript"
+	    ),
+	    _react2.default.createElement(
+	      _gatsbyLink2.default,
+	      { to: "/algorithm/", onClick: linkOnClick, className: classes.link, "data-shape": "closed" },
+	      "Algorithm"
 	    )
 	  );
 	};

@@ -12,6 +12,10 @@
       "path---there-are-only-two-3-97bcb52f6326dbd5c7af.js",
       "path---there-are-only-two-3-97bcb52f6326dbd5c7af.js.map"
     ],
+    "component---src-pages-algorithm-js": [
+      "component---src-pages-algorithm-js-62cb6932c28db8ee790a.js",
+      "component---src-pages-algorithm-js-62cb6932c28db8ee790a.js.map"
+    ],
     "path---be-who-you-are-2": [
       "path---be-who-you-are-2-9a64d96d2176bb40ff57.js",
       "path---be-who-you-are-2-9a64d96d2176bb40ff57.js.map"
@@ -19,6 +23,10 @@
     "path---people-will-forget-3": [
       "path---people-will-forget-3-d99b7eaf700c24ebc115.js",
       "path---people-will-forget-3-d99b7eaf700c24ebc115.js.map"
+    ],
+    "component---src-pages-javascript-js": [
+      "component---src-pages-javascript-js-2e54deb150b9fbc84698.js",
+      "component---src-pages-javascript-js-2e54deb150b9fbc84698.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-aa9570313651ef926b5a.js",
@@ -68,13 +76,17 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---algorithm": [
+      "path---algorithm-a0e39f21c11f6a62c5ab.js",
+      "path---algorithm-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---two-things-are-infinite": [
       "path---two-things-are-infinite-3e5c148692995e3402c0.js",
       "path---two-things-are-infinite-3e5c148692995e3402c0.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-255654e8daac97143907.js",
-      "component---src-layouts-index-js-255654e8daac97143907.js.map"
+      "component---src-layouts-index-js-261e2704db30f7514000.js",
+      "component---src-layouts-index-js-261e2704db30f7514000.js.map"
     ],
     "path---two-things-are-infinite-2": [
       "path---two-things-are-infinite-2-b24647728acbe000ceb9.js",
@@ -103,6 +115,10 @@
     "path---you-only-live-once-3": [
       "path---you-only-live-once-3-8217b27547d752e0a560.js",
       "path---you-only-live-once-3-8217b27547d752e0a560.js.map"
+    ],
+    "path---javascript": [
+      "path---javascript-a0e39f21c11f6a62c5ab.js",
+      "path---javascript-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---i-have-not-failed": [
       "path---i-have-not-failed-c13f85442de2f992e405.js",
@@ -147,9 +163,9 @@
       "path---two-things-are-infinite-3-2d184d84317c3090462d.js.map"
     ],
     "app": [
-      "app-177414135136600d4a5d.js",
+      "app-e421ba1f4dc9a9655181.js",
       "build-js-styles.css",
-      "app-177414135136600d4a5d.js.map",
+      "app-e421ba1f4dc9a9655181.js.map",
       "build-js-styles.css.map"
     ],
     "path---i-may-not-have-gone-2": [
