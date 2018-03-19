@@ -115,6 +115,16 @@ class TopMenu extends React.Component {
                         Javascript
                       </MenuItem>
                     </a>
+                    <a href="/algorithm/" style={{ display: "block" }}>
+                      <MenuItem
+                        onClick={e => {
+                          this.props.pageLinkOnClick(e);
+                          this.handleClose();
+                        }}
+                      >
+                        Algorithm
+                      </MenuItem>
+                    </a>
                   </MenuList>
                 </Paper>
               </Grow>
