@@ -1,175 +1,166 @@
-require("dotenv").config();
-const config = require("./content/meta/config");
-
-const query = `{
-  allMarkdownRemark(filter: { id: { regex: "//posts|pages//" } }) {
-    edges {
-      node {
-        objectID: id
-        fields {
-          slug
-        }
-        internal {
-          content
-        }
-        frontmatter {
-          title
-          subTitle
-        }
-      }
-    }
-  }
-}`;
-
-const queries = [
-  {
-    query,
-    transformer: ({ data }) => data.allMarkdownRemark.edges.map(({ node }) => node)
-  }
-];
-
 module.exports = {
   siteMetadata: {
-    title: config.siteTitle,
-    description: config.siteDescription,
-    siteUrl: config.siteUrl,
-    pathPrefix: config.pathPrefix,
-    algolia: {
-      appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-      searchOnlyApiKey: process.env.ALGOLIA_SEARCH_ONLY_API_KEY
-        ? process.env.ALGOLIA_SEARCH_ONLY_API_KEY
-        : "",
-      indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : ""
-    },
-    facebook: {
-      appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
+    url: 'https://lumen.netlify.com',
+    title: 'Blog by John Doe',
+    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    copyright: '© All rights reserved.',
+    disqusShortname: '',
+    menu: [
+      {
+        label: 'Articles',
+        path: '/'
+      },
+      {
+        label: 'About me',
+        path: '/about/'
+      },
+      {
+        label: 'Contact me',
+        path: '/contact/'
+      }
+    ],
+    author: {
+      name: 'John Doe',
+      email: '#',
+      telegram: '#',
+      twitter: '#',
+      github: '#',
+      rss: '#',
+      vk: '#'
     }
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-algolia`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
-        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
-        queries,
-        chunkSize: 10000 // default: 1000
+        path: `${__dirname}/src/pages`,
+        name: 'pages'
       }
     },
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-plugin-feed',
       options: {
-        path: `${__dirname}/content/posts/`,
-        name: "posts"
-      }
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/pages/`,
-        name: "pages"
-      }
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `parts`,
-        path: `${__dirname}/content/parts/`
-      }
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          `gatsby-plugin-sharp`,
+        query: `
           {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 800
+            site {
+              siteMetadata {
+                site_url: url
+                title
+                description: subtitle
+              }
             }
-          },
+          }
+        `,
+        feeds: [
           {
-            resolve: `gatsby-remark-responsive-iframe`,
-            options: {
-              wrapperStyle: `margin-bottom: 2em`
-            }
-          },
-          `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`
-        ]
-      }
-    },
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-catch-links`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: config.manifestName,
-        short_name: config.manifestShortName,
-        start_url: config.manifestStartUrl,
-        background_color: config.manifestBackgroundColor,
-        theme_color: config.manifestThemeColor,
-        display: config.manifestDisplay,
-        icons: [
-          {
-            src: "/icons/icon-48x48.png",
-            sizes: "48x48",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-96x96.png",
-            sizes: "96x96",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-144x144.png",
-            sizes: "144x144",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-192x192.png",
-            sizes: "192x192",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-256x256.png",
-            sizes: "256x256",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-384x384.png",
-            sizes: "384x384",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-512x512.png",
-            sizes: "512x512",
-            type: "image/png"
+            serialize: ({ query: { site, allMarkdownRemark } }) => (
+              allMarkdownRemark.edges.map(edge =>
+                Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.frontmatter.description,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.site_url + edge.node.fields.slug,
+                  guid: site.siteMetadata.site_url + edge.node.fields.slug,
+                  custom_elements: [{ 'content:encoded': edge.node.html }]
+                }))
+            ),
+            query: `
+              {
+                allMarkdownRemark(
+                  limit: 1000,
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                  filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
+                ) {
+                  edges {
+                    node {
+                      html
+                      fields {
+                        slug
+                      }
+                      frontmatter {
+                        title
+                        date
+                        layout
+                        draft
+                        description
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: '/rss.xml'
           }
         ]
       }
     },
-    `gatsby-plugin-offline`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-transformer-remark',
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID
+        plugins: [
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 960
+            }
+          },
+          {
+            resolve: 'gatsby-remark-responsive-iframe',
+            options: { wrapperStyle: 'margin-bottom: 1.0725rem' }
+          },
+          'gatsby-remark-prismjs',
+          'gatsby-remark-copy-linked-files',
+          'gatsby-remark-smartypants'
+        ]
+      }
+    },
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: { trackingId: 'UA-73379983-2' }
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`roboto\:400,400i,500,700`]
       }
     },
     {
-      resolve: `gatsby-plugin-feed`
-    },
-    {
-      resolve: `gatsby-plugin-sitemap`
-    },
-    {
-      resolve: "gatsby-plugin-svgr",
+      resolve: 'gatsby-plugin-sitemap',
       options: {
-        dir: `svg-icons`
+        query: `
+            {
+              site {
+                siteMetadata {
+                  url
+                }
+              }
+              allSitePage(
+                filter: {
+                  path: { regex: "/^(?!/404/|/404.html|/dev-404-page/)/" }
+                }
+              ) {
+                edges {
+                  node {
+                    path
+                  }
+                }
+              }
+          }`,
+        output: '/sitemap.xml',
+        serialize: ({ site, allSitePage }) =>
+          allSitePage.edges.map((edge) => {
+            return {
+              url: site.siteMetadata.url + edge.node.path,
+              changefreq: 'daily',
+              priority: 0.7
+            };
+          })
       }
-    }
+    },
+    'gatsby-plugin-offline',
+    'gatsby-plugin-catch-links',
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-postcss-sass'
   ]
 };
