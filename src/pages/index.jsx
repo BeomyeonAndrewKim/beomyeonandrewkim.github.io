@@ -20,9 +20,7 @@ class IndexRoute extends React.Component {
         </Helmet>
         <Sidebar {...this.props} />
         <div className="content">
-          <div className="content__inner">
-            {items}
-          </div>
+          <div className="content__inner">{items}</div>
         </div>
       </div>
     );
@@ -45,19 +43,19 @@ export const pageQuery = graphql`
         author {
           name
           email
-          telegram
-          twitter
+          instagram
+          linkedin
           github
           rss
-          vk
+          facebook
         }
       }
     }
     allMarkdownRemark(
-        limit: 1000,
-        filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } },
-        sort: { order: DESC, fields: [frontmatter___date] }
-      ){
+      limit: 1000
+      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
       edges {
         node {
           fields {

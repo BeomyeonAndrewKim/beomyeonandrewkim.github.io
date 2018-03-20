@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import moment from 'moment';
 import Disqus from '../Disqus/Disqus';
+import profilePic from '../../pages/photo.jpg';
 import './style.scss';
 
 class PostTemplateDetails extends React.Component {
@@ -10,22 +11,34 @@ class PostTemplateDetails extends React.Component {
     const post = this.props.data.markdownRemark;
     const tags = post.fields.tagSlugs;
 
+    const links = {
+      instagram: author.instagram,
+      facebook: author.facebook,
+      github: author.github,
+      linkedin: author.linkedin,
+      rss: author.rss,
+      email: author.email
+    };
+
     const homeBlock = (
       <div>
-        <Link className="post-single__home-button" to="/">All Articles</Link>
+        <Link className="post-single__home-button" to="/">
+          All Articles
+        </Link>
       </div>
     );
 
     const tagsBlock = (
       <div className="post-single__tags">
         <ul className="post-single__tags-list">
-          {tags && tags.map((tag, i) => (
-            <li className="post-single__tags-list-item" key={tag}>
-              <Link to={tag} className="post-single__tags-list-item-link">
-                {post.frontmatter.tags[i]}
-              </Link>
-            </li>
-          ))}
+          {tags &&
+            tags.map((tag, i) => (
+              <li className="post-single__tags-list-item" key={tag}>
+                <Link to={tag} className="post-single__tags-list-item-link">
+                  {post.frontmatter.tags[i]}
+                </Link>
+              </li>
+            ))}
         </ul>
       </div>
     );
@@ -50,12 +63,54 @@ class PostTemplateDetails extends React.Component {
           <div className="post-single__footer">
             {tagsBlock}
             <hr />
-            <p className="post-single__footer-text">
-              {subtitle}
-              <a href={`https://twitter.com/${author.twitter}`} target="_blank" rel="noopener noreferrer">
-                <br /> <strong>{author.name}</strong> on Twitter
+            <div className="post-single__footer__profile">
+              <img
+                src={profilePic}
+                className="post-single__footer__profile-img"
+                width="120"
+                height="120"
+                alt={author.name}
+              />
+              <span className="post-single__footer__profile-name">
+                <strong>{author.name}</strong>
+              </span>
+              <a
+                className="post-single__footer__profile-link"
+                href={`https://www.facebook.com/${links.facebook}`}
+                target="_blank"
+              >
+                <i className="icon-facebook" />
               </a>
-            </p>
+              <a
+                className="post-single__footer__profile-link"
+                href={`https://www.github.com/${links.github}`}
+                target="_blank"
+              >
+                <i className="icon-github" />
+              </a>
+              <a
+                className="post-single__footer__profile-link"
+                href={`https://www.linkedin.com/in/${links.linkedin}`}
+                target="_blank"
+              >
+                <i className="icon-linkedin" />
+              </a>
+              <a className="post-single__footer__profile-link" href={`mailto:${links.email}`}>
+                <i className="icon-mail" />
+              </a>
+              <a
+                className="post-single__footer__profile-link"
+                href={`https://www.instagram.com/${links.instagram}`}
+                target="_blank"
+              >
+                <i className="icon-instagram" />
+              </a>
+              <a className="post-single__footer__profile-link" href={links.rss}>
+                <i className="icon-rss" />
+              </a>
+              <p className="post-single__footer__profile-subtitle">{subtitle}</p>
+              <hr />
+            </div>
             {commentsBlock}
           </div>
         </div>

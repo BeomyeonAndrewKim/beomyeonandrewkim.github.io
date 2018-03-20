@@ -62,6 +62,27 @@
                 text-decoration: underline;
             }
         }
+        &__profile{
+            &-img{
+                border-radius:50%;
+                float: left;
+                transform:translateY(-10px);
+                @include margin-right(1);
+            }
+            &-link{
+                border: 0;
+                & i {
+                    font-size: 14px;
+                    color: lighten($color-base, 20%);
+                }
+                &:hover,
+                &:focus {
+                    & i {
+                        color: $color-base;
+                    }
+                }
+            }
+        }
     }
     &__date {
         max-width: $layout-post-single-width;

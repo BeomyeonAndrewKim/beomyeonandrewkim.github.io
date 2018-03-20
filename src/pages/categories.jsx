@@ -22,7 +22,10 @@ class CategoriesRoute extends React.Component {
                   <ul className="categories__list">
                     {categories.map(category => (
                       <li key={category.fieldValue} className="categories__list-item">
-                        <Link to={`/categories/${kebabCase(category.fieldValue)}/`} className="categories__list-item-link">
+                        <Link
+                          to={`/categories/${kebabCase(category.fieldValue)}/`}
+                          className="categories__list-item-link"
+                        >
                           {category.fieldValue} ({category.totalCount})
                         </Link>
                       </li>
@@ -54,11 +57,11 @@ export const pageQuery = graphql`
         author {
           name
           email
-          telegram
-          twitter
+          instagram
+          linkedin
           github
           rss
-          vk
+          facebook
         }
       }
     }

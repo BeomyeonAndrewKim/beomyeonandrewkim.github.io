@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
-    disqusShortname: '',
+    url: 'https://beomyeonandrewkim.github.io',
+    title: "Andrea's Blog",
+    subtitle:
+      "I'm front-end web developer, fomer marketer, interested in Data Visualization and PWA",
+    copyright: 'powerd by Gatsby, theme by lumen',
+    disqusShortname: 'beomyeonandrewkim',
     menu: [
       {
         label: 'Articles',
@@ -20,13 +21,13 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      name: 'Andrea',
+      email: 'beom911@gmail.com',
+      instagram: 'kim.andrea.by',
+      linkedin: 'beomyeon-kim-a9b453128',
+      github: 'beomyeonandrewkim',
       rss: '#',
-      vk: '#'
+      facebook: 'beom911'
     }
   },
   plugins: [
@@ -53,7 +54,7 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allMarkdownRemark } }) => (
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
               allMarkdownRemark.edges.map(edge =>
                 Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.frontmatter.description,
@@ -61,8 +62,7 @@ module.exports = {
                   url: site.siteMetadata.site_url + edge.node.fields.slug,
                   guid: site.siteMetadata.site_url + edge.node.fields.slug,
                   custom_elements: [{ 'content:encoded': edge.node.html }]
-                }))
-            ),
+                })),
             query: `
               {
                 allMarkdownRemark(
@@ -99,9 +99,7 @@ module.exports = {
         plugins: [
           {
             resolve: 'gatsby-remark-images',
-            options: {
-              maxWidth: 960
-            }
+            options: { maxWidth: 960 }
           },
           {
             resolve: 'gatsby-remark-responsive-iframe',
@@ -120,10 +118,8 @@ module.exports = {
       options: { trackingId: 'UA-73379983-2' }
     },
     {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [`roboto\:400,400i,500,700`]
-      }
+      resolve: 'gatsby-plugin-google-fonts',
+      options: { fonts: ['roboto:400,400i,500,700'] }
     },
     {
       resolve: 'gatsby-plugin-sitemap',

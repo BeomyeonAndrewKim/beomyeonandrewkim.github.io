@@ -37,11 +37,11 @@ export const pageQuery = graphql`
         author {
           name
           email
-          telegram
-          twitter
+          instagram
+          linkedin
           github
           rss
-          vk
+          facebook
         }
       }
     }
