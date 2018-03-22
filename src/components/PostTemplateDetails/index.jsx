@@ -64,13 +64,15 @@ class PostTemplateDetails extends React.Component {
             {tagsBlock}
             <hr />
             <div className="post-single__footer__profile">
-              <img
-                src={profilePic}
-                className="post-single__footer__profile-img"
-                width="120"
-                height="120"
-                alt={author.name}
-              />
+              <div className="post-single__footer__profile-imgWrapper">
+                <img
+                  src={profilePic}
+                  className="post-single__footer__profile-img"
+                  width="120"
+                  height="120"
+                  alt={author.name}
+                />
+              </div>
               <span className="post-single__footer__profile-name">
                 <strong>{author.name}</strong>
               </span>
