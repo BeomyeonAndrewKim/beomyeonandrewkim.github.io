@@ -1,23 +1,23 @@
 module.exports = {
   siteMetadata: {
     url: 'https://beomyeonandrewkim.github.io',
-    title: "Andrea's Blog",
+    title: "Andrea's Devlog",
     subtitle:
       "I'm front-end web developer, fomer marketer, interested in Data Visualization and PWA",
     copyright: 'powerd by Gatsby, theme by lumen',
     disqusShortname: 'beomyeonandrewkim',
     menu: [
       {
-        label: 'About me',
-        path: '/about/'
-      },
-      {
-        label: 'Articles',
+        label: 'Home',
         path: '/'
       },
       {
-        label: 'Javascript',
-        path: '/categories/typography'
+        label: 'About',
+        path: '/about/'
+      },
+      {
+        label: 'Algorithm',
+        path: '/categories/algorithm/'
       }
     ],
     author: {
@@ -26,7 +26,7 @@ module.exports = {
       instagram: 'kim.andrea.by',
       linkedin: 'beomyeon-kim-a9b453128',
       github: 'beomyeonandrewkim',
-      rss: '#',
+      rss: '/rss.xml',
       facebook: 'beom911'
     }
   },
@@ -115,7 +115,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' }
+      options: { trackingId: 'UA-112057755-2' }
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
