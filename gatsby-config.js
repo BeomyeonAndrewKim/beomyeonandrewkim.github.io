@@ -8,16 +8,16 @@ module.exports = {
     disqusShortname: 'beomyeonandrewkim',
     menu: [
       {
-        label: 'Articles',
-        path: '/'
-      },
-      {
         label: 'About me',
         path: '/about/'
       },
       {
-        label: 'Contact me',
-        path: '/contact/'
+        label: 'Articles',
+        path: '/'
+      },
+      {
+        label: 'Javascript',
+        path: '/categories/typography'
       }
     ],
     author: {
