@@ -12,10 +12,6 @@ module.exports = {
         path: '/'
       },
       {
-        label: 'About',
-        path: '/about/'
-      },
-      {
         label: 'Algorithm',
         path: '/categories/algorithm/'
       }
