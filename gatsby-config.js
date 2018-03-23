@@ -12,6 +12,10 @@ module.exports = {
         path: '/'
       },
       {
+        label: 'Javascript',
+        path: '/categories/javascript/'
+      },
+      {
         label: 'Algorithm',
         path: '/categories/algorithm/'
       }
