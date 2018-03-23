@@ -43,6 +43,59 @@ class PostTemplateDetails extends React.Component {
       </div>
     );
 
+    const profileBlock = (
+      <div className="post-single__footer__profile">
+        <div className="post-single__footer__profile-imgWrapper">
+          <img
+            src={profilePic}
+            className="post-single__footer__profile-img"
+            width="120"
+            height="120"
+            alt={author.name}
+          />
+        </div>
+        <span className="post-single__footer__profile-name">
+          <strong>{author.name}</strong>
+        </span>
+        <a
+          className="post-single__footer__profile-link"
+          href={`https://www.facebook.com/${links.facebook}`}
+          target="_blank"
+        >
+          <i className="icon-facebook" />
+        </a>
+        <a
+          className="post-single__footer__profile-link"
+          href={`https://www.github.com/${links.github}`}
+          target="_blank"
+        >
+          <i className="icon-github" />
+        </a>
+        <a
+          className="post-single__footer__profile-link"
+          href={`https://www.linkedin.com/in/${links.linkedin}`}
+          target="_blank"
+        >
+          <i className="icon-linkedin" />
+        </a>
+        <a className="post-single__footer__profile-link" href={`mailto:${links.email}`}>
+          <i className="icon-mail" />
+        </a>
+        <a
+          className="post-single__footer__profile-link"
+          href={`https://www.instagram.com/${links.instagram}`}
+          target="_blank"
+        >
+          <i className="icon-instagram" />
+        </a>
+        <a className="post-single__footer__profile-link" href={links.rss}>
+          <i className="icon-rss" />
+        </a>
+        <p className="post-single__footer__profile-subtitle">{subtitle}</p>
+        <hr />
+      </div>
+    );
+
     const commentsBlock = (
       <div>
         <Disqus postNode={post} siteMetadata={this.props.data.site.siteMetadata} />
@@ -63,56 +116,7 @@ class PostTemplateDetails extends React.Component {
           <div className="post-single__footer">
             {tagsBlock}
             <hr />
-            <div className="post-single__footer__profile">
-              <div className="post-single__footer__profile-imgWrapper">
-                <img
-                  src={profilePic}
-                  className="post-single__footer__profile-img"
-                  width="120"
-                  height="120"
-                  alt={author.name}
-                />
-              </div>
-              <span className="post-single__footer__profile-name">
-                <strong>{author.name}</strong>
-              </span>
-              <a
-                className="post-single__footer__profile-link"
-                href={`https://www.facebook.com/${links.facebook}`}
-                target="_blank"
-              >
-                <i className="icon-facebook" />
-              </a>
-              <a
-                className="post-single__footer__profile-link"
-                href={`https://www.github.com/${links.github}`}
-                target="_blank"
-              >
-                <i className="icon-github" />
-              </a>
-              <a
-                className="post-single__footer__profile-link"
-                href={`https://www.linkedin.com/in/${links.linkedin}`}
-                target="_blank"
-              >
-                <i className="icon-linkedin" />
-              </a>
-              <a className="post-single__footer__profile-link" href={`mailto:${links.email}`}>
-                <i className="icon-mail" />
-              </a>
-              <a
-                className="post-single__footer__profile-link"
-                href={`https://www.instagram.com/${links.instagram}`}
-                target="_blank"
-              >
-                <i className="icon-instagram" />
-              </a>
-              <a className="post-single__footer__profile-link" href={links.rss}>
-                <i className="icon-rss" />
-              </a>
-              <p className="post-single__footer__profile-subtitle">{subtitle}</p>
-              <hr />
-            </div>
+            {profileBlock}
             {commentsBlock}
           </div>
         </div>
