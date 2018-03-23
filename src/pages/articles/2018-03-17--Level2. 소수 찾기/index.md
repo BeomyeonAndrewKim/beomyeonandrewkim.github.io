@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 소수 찾기"
+title: "[Algorithm JavaScript] Level1. 소수 찾기"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -15,7 +15,7 @@ description: "numberOfPrime 메소드는 정수 n을 매개변수로 입력받�
  소수는 1과 자기 자신으로만 나누어지는 수를 의미합니다."
 ---
 
-[Daily Algorithm_JavaScript] Level2. 소수 찾기
+[Algorithm JavaScript] Level2. 소수 찾기
 
 ### Question
 

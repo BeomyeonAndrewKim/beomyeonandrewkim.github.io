@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 하샤드수"
+title: "[Algorithm JavaScript] Level1. 하샤드수"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -15,7 +15,7 @@ description: "양의 정수 x가 하샤드 수이려면 x의 자릿수의 합으
 Harshad함수는 양의 정수 n을 매개변수로 입력받습니다. 이 n이 하샤드수인지 아닌지 판단하는 함수를 완성하세요."
 ---
 
-[Daily Algorithm_JavaScript] Level2. 하샤드수
+[Algorithm JavaScript] Level2. 하샤드수
 
 ### Question
 

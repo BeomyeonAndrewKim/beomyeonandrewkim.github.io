@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 두 정수 사이의 합"
+title: "[Algorithm JavaScript] Level1. 두 정수 사이의 합"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -14,7 +14,7 @@ tags:
 description: "adder함수는 정수 a, b를 매개변수로 입력받습니다. 두 수와 두 수 사이에 있는 모든 정수를 더해서 리턴하도록 함수를 완성하세요. a와 b가 같은 경우는 둘 중 아무 수나 리턴하세요."
 ---
 
-[Daily Algorithm_JavaScript] Level2. 두 정수 사이의 합
+[Algorithm JavaScript] Level2. 두 정수 사이의 합
 
 ### Question
 

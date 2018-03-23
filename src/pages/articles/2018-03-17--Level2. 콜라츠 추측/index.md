@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 콜라츠 추측"
+title: "[Algorithm JavaScript] Level1. 콜라츠 추측"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -14,7 +14,7 @@ tags:
 description: "1937년 Collatz란 사람에 의해 제기된 이 추측은, 입력된 수가 짝수라면 2로 나누고, 홀수라면 3을 곱하고 1을 더한 다음, 결과로 나온 수에 같은 작업을 1이 될 때까지 반복할 경우 모든 수가 1이 된다는 추측입니다."
 ---
 
-[Daily Algorithm_JavaScript] Level2. 콜라츠 추측
+[Algorithm JavaScript] Level2. 콜라츠 추측
 
 ### Question
 

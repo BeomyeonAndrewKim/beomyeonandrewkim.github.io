@@ -1,4 +1,4 @@
-[Daily Algorithm_JavaScript] Level1. 삼각형 출력하기
+[Algorithm JavaScript] Level1. 삼각형 출력하기
 
 ### Question
 

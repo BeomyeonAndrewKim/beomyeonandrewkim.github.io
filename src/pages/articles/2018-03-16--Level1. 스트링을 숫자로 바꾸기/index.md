@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 스트링을 숫자로 바꾸기"
+title: "[Algorithm JavaScript] Level1. 스트링을 숫자로 바꾸기"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -14,7 +14,7 @@ tags:
 description: "strToInt 메소드는 String형 str을 매개변수로 받습니다. str을 숫자로 변환한 결과를 반환하도록 strToInt를 완성하세요."
 ---
 
-[Daily Algorithm_JavaScript] Level1. 스트링을 숫자로 바꾸기
+[Algorithm JavaScript] Level1. 스트링을 숫자로 바꾸기
 
 ### Question
 

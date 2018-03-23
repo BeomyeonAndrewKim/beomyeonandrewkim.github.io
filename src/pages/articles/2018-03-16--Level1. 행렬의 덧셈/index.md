@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 행렬의 덧셈"
+title: "[Algorithm JavaScript] Level1. 행렬의 덧셈"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -14,7 +14,7 @@ tags:
 description: "행렬의 덧셈은 행과 열의 크기가 같은 두 행렬의 같은 행, 같은 열의 값을 서로 더한 결과가 됩니다. 2개의 행렬을 입력받는 sumMatrix 함수를 완성하여 행렬 덧셈의 결과를 반환해 주세요."
 ---
 
-[Daily Algorithm_JavaScript] Level1. 행렬의 덧셈
+[Algorithm JavaScript] Level1. 행렬의 덧셈
 
 ### Question
 

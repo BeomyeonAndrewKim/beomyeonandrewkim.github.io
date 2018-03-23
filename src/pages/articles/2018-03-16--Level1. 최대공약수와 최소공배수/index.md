@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 최대공약수와 최소공배수"
+title: "[Algorithm JavaScript] Level1. 최대공약수와 최소공배수"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -14,7 +14,7 @@ tags:
 description: "두 수를 입력받아 두 수의 최대공약수와 최소공배수를 반환해주는 gcdlcm 함수를 완성해 보세요. 배열의 맨 앞에 최대공약수, 그 다음 최소공배수를 넣어 반환하면 됩니다."
 ---
 
-[Daily Algorithm_JavaScript] Level1.최대공약수와 최소공배수
+[Algorithm JavaScript] Level1.최대공약수와 최소공배수
 
 ### Question
 

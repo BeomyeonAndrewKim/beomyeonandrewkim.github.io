@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 서울에서 김서방 찾기(index 활용하기)"
+title: "[Algorithm JavaScript] Level1. 서울에서 김서방 찾기(index 활용하기)"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -16,7 +16,7 @@ description: "findKim 함수(메소드)는 String형 배열 seoul을 매개변�
 Seoul에 Kim은 오직 한 번만 나타나며 잘못된 값이 입력되는 경우는 없습니다."
 ---
 
-[Daily Algorithm_JavaScript] Level1. 서울에서 김서방 찾기(index 활용하기)
+[Algorithm JavaScript] Level1. 서울에서 김서방 찾기(index 활용하기)
 
 ### Question
 

@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 문자열 내 p와 y의 개수"
+title: "[Algorithm JavaScript] Level1. 문자열 내 p와 y의 개수"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -15,7 +15,7 @@ description: "numPY함수는 대문자와 소문자가 섞여있는 문자열 s�
 s에 'p'의 개수와 'y'의 개수를 비교해 같으면 True, 다르면 False를 리턴하도록 함수를 완성하세요. 'p', 'y' 모두 하나도 없는 경우는 항상 True를 리턴합니다."
 ---
 
-[Daily Algorithm_JavaScript] Level1. 문자열 내 p와 y의 개수
+[Algorithm JavaScript] Level1. 문자열 내 p와 y의 개수
 
 ### Question
 

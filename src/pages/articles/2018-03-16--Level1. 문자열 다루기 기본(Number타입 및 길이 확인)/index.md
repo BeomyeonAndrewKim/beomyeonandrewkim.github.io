@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1.문자열 다루기 기본(Number타입 및 길이 확인)"
+title: "[Algorithm JavaScript] Level1.문자열 다루기 기본(Number타입 및 길이 확인)"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -15,7 +15,7 @@ description: "alpha_string46함수는 문자열 s를 매개변수로 입력받�
  예를들어 s가 a234이면 False를 리턴하고 1234라면 True를 리턴하면 됩니다"
 ---
 
-[Daily Algorithm_JavaScript] Level1.문자열 다루기 기본(Number타입 및 길이 확인)
+[Algorithm JavaScript] Level1.문자열 다루기 기본(Number타입 및 길이 확인)
 
 ### Question
 

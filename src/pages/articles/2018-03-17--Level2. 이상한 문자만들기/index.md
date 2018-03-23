@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 이상한 문자만들기"
+title: "[Algorithm JavaScript] Level1. 이상한 문자만들기"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -14,7 +14,7 @@ tags:
 description: "toWeirdCase함수는 문자열 s를 매개변수로 입력받습니다. 문자열 s에 각 `단어`의 짝수번째 인덱스 문자는 대문자로, 홀수번째 인덱스 문자는 소문자로 바꾼 문자열을 리턴하도록 함수를 완성하세요."
 ---
 
-[Daily Algorithm_JavaScript] Level2. 이상한 문자만들기
+[Algorithm JavaScript] Level2. 이상한 문자만들기
 
 ### Question
 

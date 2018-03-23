@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 역삼각형 출력하기"
+title: "[Algorithm JavaScript] Level1. 역삼각형 출력하기"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -15,7 +15,7 @@ description: "printReversedTriangle 메소드는 양의 정수 num을 매개변�
  다음을 참고해 `*`(별)로 높이가 num인 삼각형을 문자열로 리턴하는 printReversedTriangle 메소드를 완성하세요"
 ---
 
-[Daily Algorithm_JavaScript] Level1. 역삼각형 출력하기
+[Algorithm JavaScript] Level1. 역삼각형 출력하기
 
 ### Question
 

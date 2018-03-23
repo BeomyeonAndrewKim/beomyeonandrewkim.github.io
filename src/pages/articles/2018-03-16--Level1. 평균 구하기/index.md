@@ -1,5 +1,5 @@
 ---
-title: "[Daily Algorithm_JavaScript] Level1. 평균 구하기"
+title: "[Algorithm JavaScript] Level1. 평균 구하기"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
@@ -14,7 +14,7 @@ tags:
 description: "함수를 완성해서 매개변수 array의 평균값을 return하도록 만들어 보세요. 어떠한 크기의 array가 와도 평균값을 구할 수 있어야 합니다."
 ---
 
-[Daily Algorithm_JavaScript] Level1. 평균 구하기
+[Algorithm JavaScript] Level1. 평균 구하기
 
 ### Question
 
