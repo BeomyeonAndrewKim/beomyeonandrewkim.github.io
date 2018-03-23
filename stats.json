@@ -105,8 +105,8 @@
       "path---posts-algorithm-addition-of-matrix-820ecfd6504688f572da.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-5167f7043c12dcecd2c2.js",
-      "component---src-layouts-index-jsx-5167f7043c12dcecd2c2.js.map"
+      "component---src-layouts-index-jsx-37493d78c51ef44d71b2.js",
+      "component---src-layouts-index-jsx-37493d78c51ef44d71b2.js.map"
     ],
     "path---posts-algorithm-collatz": [
       "path---posts-algorithm-collatz-2d815c857182808812c7.js",
@@ -244,9 +244,7 @@
     ],
     "app": [
       "app-f2e8013799bda9c292dc.js",
-      "build-js-styles.css",
-      "app-f2e8013799bda9c292dc.js.map",
-      "build-js-styles.css.map"
+      "app-f2e8013799bda9c292dc.js.map"
     ],
     "path---posts-algorithm-check-square-root-integer": [
       "path---posts-algorithm-check-square-root-integer-e3706878172a73e03722.js",
