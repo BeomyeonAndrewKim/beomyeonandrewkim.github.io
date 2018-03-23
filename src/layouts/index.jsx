@@ -1,6 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import 'prismjs/themes/prism-okaidia.css';
+
 import '../assets/scss/init.scss';
 
 class Layout extends React.Component {
