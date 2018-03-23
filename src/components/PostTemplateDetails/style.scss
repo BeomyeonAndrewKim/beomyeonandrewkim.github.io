@@ -138,6 +138,21 @@
             border: 0;
         }
     }
+    table, th, td {
+        border: 1px solid #F5F2F0;
+        border-collapse: collapse;
+        padding:10px 15px;
+        text-align: left;
+     }
+     .token.operator{
+        background-color:transparent;
+     }
+     .language-text{
+         background-color:#DFDFDF;
+         color: #272822;
+         text-shadow:initial;
+     }
+   
 }
 
 @include breakpoint-xs{
