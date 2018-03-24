@@ -142,7 +142,8 @@ figcaption {
 }
 
 .layout {
-    lost-center: $layout-width;
+    position: relative;
+    lost-center: $layout-width; 
 }
 
 .content {
@@ -164,7 +165,9 @@ figcaption {
         float: left;
     }
     .content {
-        lost-column: 7/12;
+        position: absolute;
+        margin-left: calc(99.9% * 1/3 - (1.875rem - 1.875rem * 1/3));
+        lost-column: 2/3;
         &__inner {
             padding: 30px 20px;
         }
