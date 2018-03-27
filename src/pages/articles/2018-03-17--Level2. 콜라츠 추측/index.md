@@ -1,5 +1,5 @@
 ---
-title: "[Algorithm JavaScript] Level1. 콜라츠 추측"
+title: "[Algorithm JavaScript] Level2. 콜라츠 추측"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false

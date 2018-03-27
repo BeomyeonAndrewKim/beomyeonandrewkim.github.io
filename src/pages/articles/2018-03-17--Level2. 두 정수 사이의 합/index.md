@@ -1,5 +1,5 @@
 ---
-title: "[Algorithm JavaScript] Level1. 두 정수 사이의 합"
+title: "[Algorithm JavaScript] Level2. 두 정수 사이의 합"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false

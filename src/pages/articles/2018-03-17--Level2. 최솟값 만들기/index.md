@@ -1,5 +1,5 @@
 ---
-title: "[Algorithm JavaScript] Level1. 최솟값 만들기"
+title: "[Algorithm JavaScript] Level2. 최솟값 만들기"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "[Algorithm JavaScript] Level1. 소수 찾기"
+title: "[Algorithm JavaScript] Level2. 소수 찾기"
 date: "2018-03-16T22:12:03.284Z"
 layout: post
 draft: false
