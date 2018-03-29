@@ -3,7 +3,7 @@ title: "[Javascript] 객체 프로퍼티 설정"
 date: "2018-03-29T18:15:03.284Z"
 layout: post
 draft: false
-path: "/posts/javasciript/handle-array"
+path: "/posts/javasciript/set-object-attribute"
 category: "Javascript"
 tags:
   - "Javascript"
