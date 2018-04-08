@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, fomer marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 08 Apr 2018 14:56:36 GMT</lastBuildDate><item><title><![CDATA[[Javascript] 객체 프로퍼티 설정]]></title><description><![CDATA[객체 프로퍼티 설정 1. 접근자 프로퍼티 getter와 setter 접근자 프로퍼티를 사용하면 데이터나 변수의 부주의한 접근을 차단하고 자연스러운 문법으로 객채의 프로퍼티를 활용할 수 있습니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javasciript/set-object-attribute</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javasciript/set-object-attribute</guid><pubDate>Thu, 29 Mar 2018 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;객체 프로퍼티 설정&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, fomer marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 08 Apr 2018 15:43:26 GMT</lastBuildDate><item><title><![CDATA[[Javascript] 버블링과 캡쳐링]]></title><description><![CDATA[버블링과 캡쳐링 HTML 은 계층적이므로 이벤트를 꼭 한 곳에서만 처리해야 하는 건 아닙니다. 여러 요소에서 이벤트를 처리할 수 있다면, 그 이벤트에 응답할 기회는 어떤 순서로 주어지는가 하는 의문이 생길 수 있습니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javasciript/bubbling-capturing</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javasciript/bubbling-capturing</guid><pubDate>Mon, 09 Apr 2018 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;이벤트 버블링과 캡처링&lt;/h1&gt;
+&lt;p&gt;HTML 은 계층적이므로 이벤트를 꼭 한 곳에서만 처리해야 하는 건 아닙니다. 여러 요소에서 이벤트를 처리할 수 있다면, 그 이벤트에 응답할 기회는 어떤 순서로 주어지는가 하는 의문이 생길 수 있습니다.&lt;/p&gt;
+&lt;p&gt;기본적으로 두 가지 방법이 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;캡처링(Capturing): 조상에서부터 시작하는 방법&lt;/li&gt;
+&lt;li&gt;버블링(Bubbling): 이벤트가 일어난 요소에서 시작해 거슬러 올라가는 방법&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.w3.org/TR/DOM-Level-3-Events/images/eventflow.svg&quot; alt=&quot;CapturingBubbling&quot;&gt;&lt;/p&gt;
+&lt;p&gt;​ &lt;a href=&quot;https://www.w3.org/TR/DOM-Level-3-Events/#dom-event-architecture&quot;&gt;출처:W3C&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HTML5 이벤트 모델에서는 두 방법을 모두 지원하기 위해 먼저 해당 요소의 가장 먼 조상에서 시작해 해당 요소까지 내려온 다음, 다시 해당 요소에서 시작해 가장 먼 조상까지 거슬라 올라가는 방법을 택했습니다.&lt;/p&gt;
+&lt;p&gt;이벤트 핸들러에는 다른 핸들러가 어떻게 호출될지 영향을 주는 세 가지 방법이 잇습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;preventDefault&lt;/code&gt;: 이벤트를 취소하는 메서드입니다. &lt;code class=&quot;language-text&quot;&gt;defaultPrevented&lt;/code&gt; 프로퍼티가 &lt;code class=&quot;language-text&quot;&gt;true&lt;/code&gt;로 바뀝니다. 브라우저의 이벤트 핸들러는 &lt;code class=&quot;language-text&quot;&gt;defaultPrevented&lt;/code&gt; 프로퍼티가 &lt;code class=&quot;language-text&quot;&gt;true&lt;/code&gt;로 바뀐 이벤트를 무시하고 아무 일도 하지 않습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;stopPropagation&lt;/code&gt;: 이벤트를 현재 요소에서 끝내고 더는 전달되지 않게 막습니다. 해당 요소에 연결된 이벤트 핸들러는 동작하지만 다른 요소에 연결된 이벤트 핸들러는 동작하지 않습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;stopImmediatePropagation&lt;/code&gt;: 다른 이벤트 핸들러, 심지어 현재 요소에 역녈된 이벤트 핸들러도 동작하지 않게 막습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reference &lt;a href=&quot;http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940&quot;&gt;Learning JavaScript&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Javascript] Map, Set]]></title><description><![CDATA[Map, Set ES6 에서 새로 도입한 데이터 구조입니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javasciript/map-set</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javasciript/map-set</guid><pubDate>Sun, 08 Apr 2018 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;Map, Set&lt;/h1&gt;
+&lt;p&gt;ES6 에서 새로 도입한 데이터 구조입니다.&lt;/p&gt;
+&lt;h2&gt;1. Map&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;map&lt;/code&gt;은 키와 값을 연결하는 데이터 구조입니다.&lt;/p&gt;
+&lt;p&gt;ES6 이전에는 키와 값을 연결하려면 객체를 사용해야 했습니다. 객체를 이러한 목적으로 사용하면 여러 단점이 발생했습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;프로토타입 체인 떄문에 의도하지 않은 연결이 생길 수 있습니다.&lt;/li&gt;
+&lt;li&gt;객체 안에 연결된 키와 값이 몇 개나 되는지 쉽게 알아낼 수 있는 방법이 없습니다.&lt;/li&gt;
+&lt;li&gt;키는 반드시 문자열이나 심볼이어야 하므로 객체를 키로 써서 값과 연결할 수 없습니다.&lt;/li&gt;
+&lt;li&gt;객체는 프로퍼티 순서를 전혀 보장하지 않습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;map&lt;/code&gt;객체는 이러한 결함을 모두 해결했습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; u1 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Cynthia&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; u2 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Jackson&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; u3 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Olive&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; u4 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;James&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; u5 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; name&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Andrew&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// new 키워드를 활용해 Map객체를 생성할 수 있습니다.&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; userRoles &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Map&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// set 메서드를 활용해 키와 값을 할당합니다.++이미 존재하는 키에 쓰면 값이 교체 됩니다.&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u1&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u2&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u3&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Admin&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u4&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Boss&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// 체인으로도 연결할 수 있습니다.&lt;/span&gt;
+userRoles
+  &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u1&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u2&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u3&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Admin&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u4&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Boss&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// get메서드를 통해 키의 값을 알 수 있습니다.&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u2&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//&apos;User&apos;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// 생성자에 배열의 배열을 넘기는 형태로도 가능합니다.&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; userRoles2 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Map&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;u1&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;u2&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;u3&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Admin&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;u4&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Boss&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//키가 존재하는지 확인하는 has메서드가 있습니다.&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;has&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u1&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//true&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;has&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u5&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//false&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//size프로퍼티는 맵의 요소 숫자를 반환합니다.&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;size &lt;span class=&quot;token comment&quot;&gt;//4&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//요소를 지울 때는 delete 메서드를 사용합니다.&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;delete&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;u1&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;size &lt;span class=&quot;token comment&quot;&gt;// 3&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//clear 메서드를 활용해 맵의 요소를 모두 지울 수 있습니다.&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;clear&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+userRoles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;size &lt;span class=&quot;token comment&quot;&gt;// 0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;객체와 마찬가지로 키를 배열로 반환하는&lt;code class=&quot;language-text&quot;&gt;keys&lt;/code&gt;, 값을 배열로 반환하는 &lt;code class=&quot;language-text&quot;&gt;values&lt;/code&gt;, 키와 값 쌍을 배열안에 배열로 반환하는 &lt;code class=&quot;language-text&quot;&gt;entries&lt;/code&gt; 메서드를 활용해 &lt;strong&gt;이터러블 객체&lt;/strong&gt;을 반환할 수 있습니다. &lt;code class=&quot;language-text&quot;&gt;for...of&lt;/code&gt; 루프 역시 쓸 수 있습니다. 만약 배열로 반환하고 싶다면 &lt;strong&gt;스프레드 연산자&lt;/strong&gt;를 활용하면 됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;WeakMap&lt;/code&gt;이라는 객체도 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;키는 반드시 객체여야 합니다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;WeakMap&lt;/code&gt;의 키는 가비지 콜렉션에 포함될 수 있습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;WeakMap&lt;/code&gt;은 이터러블이 아니며 &lt;code class=&quot;language-text&quot;&gt;clear()&lt;/code&gt;메서드도 없습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;위 세가지를 제외하면 &lt;code class=&quot;language-text&quot;&gt;Map&lt;/code&gt;객체와 동일합니다.&lt;/p&gt;
+&lt;h2&gt;2. Set&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Set&lt;/code&gt;은 중복을 허용하지 않는 데이터 집합니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; roles &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//add 메서드를 사용해 데이터를 추가합니다.&lt;/span&gt;
+roles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//Set {&apos;User&apos;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//map과 마찬가지로 size 프로퍼티가 있습니다.&lt;/span&gt;
+roles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;size &lt;span class=&quot;token comment&quot;&gt;// 1&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//중복된 데이터를 추가하면 아무일도 일어나지 않습니다.&lt;/span&gt;
+roles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//Set{&apos;User&apos;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//역할을 제거할 때는 delete메서드를 호출합니다. 제거에 성공했다면, 즉 그런 역할이 셋에 존재했다면 true를 반환하고, 그렇지 않다면 false를 반환합니다.&lt;/span&gt;
+
+roles&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;delete&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;User&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//true&lt;/span&gt;
+roles &lt;span class=&quot;token comment&quot;&gt;//Set{};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Set&lt;/code&gt;역시 &lt;code class=&quot;language-text&quot;&gt;WeakSet&lt;/code&gt;이 있으며 마찬가지로 가비지 콜렉션의 대상이 됩니다. 이터러블 역시 아닙니다. 실제 용도는 주어진 객체가 셋 안에 존재하는지 아닌지를 알아보는 것뿐이라고 해도 과언이 아닙니다.&lt;/p&gt;
+&lt;p&gt;Reference &lt;a href=&quot;http://www.hanbit.co.kr/store/books/look.php?p_code=B2328850940&quot;&gt;Learning JavaScript&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Javascript] 객체 프로퍼티 설정]]></title><description><![CDATA[객체 프로퍼티 설정 1. 접근자 프로퍼티 getter와 setter 접근자 프로퍼티를 사용하면 데이터나 변수의 부주의한 접근을 차단하고 자연스러운 문법으로 객채의 프로퍼티를 활용할 수 있습니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javasciript/set-object-attribute</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javasciript/set-object-attribute</guid><pubDate>Thu, 29 Mar 2018 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;객체 프로퍼티 설정&lt;/h1&gt;
 &lt;h2&gt;1. 접근자 프로퍼티 getter와 setter&lt;/h2&gt;
 &lt;p&gt;접근자 프로퍼티를 사용하면 데이터나 변수의 부주의한 접근을 차단하고 자연스러운 문법으로 객채의 프로퍼티를 활용할 수 있습니다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
