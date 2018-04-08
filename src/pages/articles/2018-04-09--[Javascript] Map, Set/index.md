@@ -9,8 +9,8 @@ tags:
   - "Javascript"
   - "자바스크립트"
   - "ES2015"
-	- "Map"
-	- "Set"
+  - "Map"
+  - "Set"
 description: "Map, Set ES6 에서 새로 도입한 데이터 구조입니다."
 ---
 
