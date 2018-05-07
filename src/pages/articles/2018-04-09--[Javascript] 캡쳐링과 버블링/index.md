@@ -1,10 +1,10 @@
 ---
-title: "[Javascript] 버블링과 캡쳐링"
+title: "[JavaScript] 버블링과 캡쳐링"
 date: "2018-04-09T18:15:03.284Z"
 layout: post
 draft: false
 path: "/posts/javasciript/bubbling-capturing"
-category: "Javascript"
+category: "JavaScript"
 tags:
   - "Javascript"
   - "자바스크립트"

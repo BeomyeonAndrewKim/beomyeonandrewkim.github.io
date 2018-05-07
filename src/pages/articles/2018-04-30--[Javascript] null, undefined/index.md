@@ -1,10 +1,10 @@
 ---
-title: "[Javascript] null, undefined"
+title: "[JavaScript] null, undefined"
 date: "2018-04-30T18:15:03.284Z"
 layout: post
 draft: false
 path: "/posts/javasciript/null-undefined"
-category: "Javascript"
+category: "JavaScript"
 tags:
   - "Javascript"
   - "자바스크립트"
@@ -28,9 +28,9 @@ Javascript 를 배우는 초보자 분들도 이 두 자료형은 배우는 과�
 `undefined`는 선언되지 않았거나 값이 할당되지 않았음을 나타내는 기본 자료형 중에 하나입니다.
 
 ```javascript
-typeof a //undefined //선언되지 않음.
-let a //undefined //할당되지 않음.
-a //undefined //할당되지 않음.
+typeof a; //undefined //선언되지 않음.
+let a; //undefined //할당되지 않음.
+a; //undefined //할당되지 않음.
 ```
 
 ### 2. null
@@ -42,7 +42,7 @@ a //undefined //할당되지 않음.
 바로..
 
 ```javascript
-typeof null //'object'
+typeof null; //'object'
 ```
 
 `'object'`…? 저는 분명 위에 정의에 자료형 중 하나라고 설명했습니다.
@@ -64,8 +64,8 @@ typeof null //'object'
 ![](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/29684000_1942120992467078_688816067888842695_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeH9pjgQlX4almTtBk47pkBYs76aqhUZoAWMECX-z5I8-VarfzsH5tiR-w89-qV6ihQUPADzVVbnAV2V_Ghv25cDKkT72IElX070f0s1UFZ19g&oh=d1aa05dd4b651b2cc82f9313cea2d5fc&oe=5B5DAE0D)
 
 ```javascript
-null === undefined // false
-null == undefined // true
+null === undefined; // false
+null == undefined; // true
 ```
 
 `==`에 대해 간단히 설명하면 값이 같으면 Javascript 가 알아서 형변환을 시켜준 후 Boolean 값을 판단해서 내뱉어주는 연산자입니다.
@@ -83,14 +83,14 @@ null == undefined // true
 만약 `undefined`를 활용했을때 간단히 코드로 보면
 
 ```javascript
-let foo // 값을 대입한 적 없음
-let bar = undefined // 값을 대입함
-foo // undefined
-bar // undefined (??)
-let obj1 = {} // 속성을 지정하지 않음
-let obj2 = { prop: undefined } // 속성을 지정함
-obj1.prop // undefined
-obj2.prop // undefined (??)
+let foo; // 값을 대입한 적 없음
+let bar = undefined; // 값을 대입함
+foo; // undefined
+bar; // undefined (??)
+let obj1 = {}; // 속성을 지정하지 않음
+let obj2 = { prop: undefined }; // 속성을 지정함
+obj1.prop; // undefined
+obj2.prop; // undefined (??)
 ```
 
 위와 같은 상황은 아무리봐도 좋은 상황은 아닌 것 같습니다.
