@@ -13,8 +13,6 @@ tags:
 description: "undefined와 null은 Javascript에서 많이 다뤄지는 주제입니다.(~~조금은 부정적으로다가..~~)"
 ---
 
-# [Javascript] undefined, null
-
 `undefined`와 `null`은 Javascript 에서 많이 다뤄지는 주제입니다.(~~조금은 부정적으로다가..~~)
 
 그만큼 두 자료형에 대해서는 헷갈리는 부분이 많다는 뜻입니다.
