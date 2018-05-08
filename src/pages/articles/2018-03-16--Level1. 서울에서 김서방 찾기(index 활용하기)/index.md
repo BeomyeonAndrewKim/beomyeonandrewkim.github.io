@@ -8,7 +8,7 @@ category: "Algorithm"
 tags:
   - "Algorithm"
   - "알고리즘"
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "index 활용하기"
   - "서울에서 김서방 찾기"

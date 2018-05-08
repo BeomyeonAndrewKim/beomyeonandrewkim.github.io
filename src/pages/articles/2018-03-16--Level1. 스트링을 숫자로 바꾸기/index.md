@@ -8,7 +8,7 @@ category: "Algorithm"
 tags:
   - "Algorithm"
   - "알고리즘"
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "스트링을 숫자로 바꾸기"
 description: "strToInt 메소드는 String형 str을 매개변수로 받습니다. str을 숫자로 변환한 결과를 반환하도록 strToInt를 완성하세요."

@@ -13,7 +13,7 @@ module.exports = {
       },
       {
         label: 'JavaScript',
-        path: '/categories/javascript/',
+        path: '/categories/java-script/',
       },
       {
         label: 'Algorithm',

@@ -6,7 +6,7 @@ draft: false
 path: "/posts/javasciript/iterator-generator"
 category: "JavaScript"
 tags:
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "ES2015"
   - "Iterator"

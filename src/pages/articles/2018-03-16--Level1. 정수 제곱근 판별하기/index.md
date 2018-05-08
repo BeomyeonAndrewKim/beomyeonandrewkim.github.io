@@ -8,7 +8,7 @@ category: "Algorithm"
 tags:
   - "Algorithm"
   - "알고리즘"
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "정수 제곱근 판별하기"
 description: "nextSqaure함수는 정수 n을 매개변수로 입력받습니다. n이 임의의 정수 x의 제곱이라면 x+1의 제곱을 리턴하고, n이 임의의 정수 x의 제곱이 아니라면 'no'을 리턴하는 함수를 완성하세요."

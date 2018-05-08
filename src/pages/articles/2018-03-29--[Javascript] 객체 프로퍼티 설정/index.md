@@ -6,7 +6,7 @@ draft: false
 path: "/posts/javasciript/set-object-attribute"
 category: "JavaScript"
 tags:
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "ES2015"
   - "객체 프로퍼티 설정"

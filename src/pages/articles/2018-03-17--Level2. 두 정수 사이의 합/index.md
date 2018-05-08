@@ -8,7 +8,7 @@ category: "Algorithm"
 tags:
   - "Algorithm"
   - "알고리즘"
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "두 정수 사이의 합"
 description: "adder함수는 정수 a, b를 매개변수로 입력받습니다. 두 수와 두 수 사이에 있는 모든 정수를 더해서 리턴하도록 함수를 완성하세요. a와 b가 같은 경우는 둘 중 아무 수나 리턴하세요."

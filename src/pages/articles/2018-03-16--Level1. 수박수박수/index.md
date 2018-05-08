@@ -8,7 +8,7 @@ category: "Algorithm"
 tags:
   - "Algorithm"
   - "알고리즘"
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "길이만큼 문자열 반환하기"
   - "수박수박수"

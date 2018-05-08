@@ -8,7 +8,7 @@ category: "Algorithm"
 tags:
   - "Algorithm"
   - "알고리즘"
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "가장 긴 팰린드롬"
 description: "앞뒤를 뒤집어도 똑같은 문자열을 palindrome이라고 합니다. longest_palindrom함수는 문자열 s를 매개변수로 입력받습니다. s의 부분문자열중 가장 긴 palindrom의 길이를 리턴하는 함수를 완성하세요."

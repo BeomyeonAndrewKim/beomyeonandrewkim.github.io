@@ -8,7 +8,7 @@ category: "Algorithm"
 tags:
   - "Algorithm"
   - "알고리즘"
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "역삼각형 출력하기"
 description: "printReversedTriangle 메소드는 양의 정수 num을 매개변수로 입력받습니다.

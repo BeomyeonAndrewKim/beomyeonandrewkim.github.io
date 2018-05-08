@@ -6,7 +6,7 @@ draft: false
 path: "/posts/javasciript/handle-array"
 category: "JavaScript"
 tags:
-  - "Javascript"
+  - "JavaScript"
   - "자바스크립트"
   - "ES2015"
   - "배열"
