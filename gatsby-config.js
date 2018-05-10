@@ -12,6 +12,10 @@ module.exports = {
         path: '/',
       },
       {
+        label: 'CS',
+        path: '/categories/cs/',
+      },
+      {
         label: 'JavaScript',
         path: '/categories/java-script/',
       },
