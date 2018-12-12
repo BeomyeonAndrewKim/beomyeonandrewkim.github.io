@@ -3,7 +3,7 @@ module.exports = {
     url: 'https://beomyeonandrewkim.github.io',
     title: "Andrea's Devlog",
     subtitle:
-      "I'm front-end web developer, fomer marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.",
+      "I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.",
     copyright: 'powerd by Gatsby, theme by lumen',
     disqusShortname: 'beomyeonandrewkim',
     menu: [
