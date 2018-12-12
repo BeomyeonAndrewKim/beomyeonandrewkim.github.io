@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Dec 2018 03:04:43 GMT</lastBuildDate><item><title><![CDATA[[JavaScript] this]]></title><description><![CDATA[this는 생성자 혹은 메소드에서 객체를 가리킬 때 사용하는 키워드입니다. 자바스크립트의 경우 호출 패턴에 따라 어떤 객체를 this에 바인딩할 지가 결정됩니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/this</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/this</guid><pubDate>Wed, 12 Dec 2018 18:15:03 GMT</pubDate><content:encoded>&lt;h2&gt;Javascript This&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Dec 2018 03:07:38 GMT</lastBuildDate><item><title><![CDATA[[JavaScript] this]]></title><description><![CDATA[this는 생성자 혹은 메소드에서 객체를 가리킬 때 사용하는 키워드입니다. 자바스크립트의 경우 호출 패턴에 따라 어떤 객체를 this에 바인딩할 지가 결정됩니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/this</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/this</guid><pubDate>Wed, 12 Dec 2018 18:15:03 GMT</pubDate><content:encoded>&lt;h2&gt;Javascript This&lt;/h2&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;는 생성자 혹은 메소드에서 객체를 가리킬 때 사용하는 키워드입니다.&lt;/p&gt;
 &lt;p&gt;자바스크립트의 경우 호출 패턴에 따라 어떤 객체를 &lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;에 바인딩할 지가 결정됩니다.&lt;/p&gt;
 &lt;h3&gt;1.함수 호출 패턴&lt;/h3&gt;
@@ -39,11 +39,6 @@ otherObject&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;spa
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;를 통한 프로퍼티 생성&lt;/strong&gt;&lt;br&gt;
 생성된 빈 객체에 &lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;를 사용하여 동적으로 프로퍼티나 메소드를 생성할 수 있습니다. &lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;는 새로 생성된 객체를 가리키므로 &lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;를 통해 생성한 프로퍼티와 메소드는 새로 생성된 객체에 추가됩니다.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;생성된 객체 반환&lt;/strong&gt;&lt;br&gt;
-반환문이 없는 경우, &lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;에 바인딩된 새로 생성한 객체가 반환됩니다. 명시적으로&lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;를 반환하여도 결과는 같습니다.
-반환문이 &lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;가 아닌 다른 객체를 명시적으로 반환하는 경우,&lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;가 아닌 해당 객체가 반환됩니다. 이때 &lt;code class=&quot;language-text&quot;&gt;this&lt;/code&gt;를 반환하지 않은 함수는 생성자 함수로서의 역할을 수행하지 못합니다. 따라서 생성자 함수는 반환문을 명시적으로 사용하지 않습니다.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
