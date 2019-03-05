@@ -23,6 +23,10 @@ module.exports = {
         label: 'Algorithm',
         path: '/categories/algorithm/',
       },
+      {
+        label: 'ETC',
+        path: '/categories/etc/',
+      },
     ],
     author: {
       name: 'Andrea',
