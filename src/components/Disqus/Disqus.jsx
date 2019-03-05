@@ -28,7 +28,7 @@ class Disqus extends Component {
     return (
       <ReactDisqusComments
         shortname={siteMetadata.disqusShortname}
-        identifier={post.title}
+        identifier={`${post.title}_${new Date().getTime()}`}
         title={post.title}
         url={url}
         category_id={post.category_id}
