@@ -24,6 +24,10 @@ module.exports = {
         path: '/categories/algorithm/',
       },
       {
+        label: 'React',
+        path: '/categories/react/',
+      },
+      {
         label: 'ETC',
         path: '/categories/etc/',
       },
