@@ -17,7 +17,7 @@ class PostTemplateDetails extends React.Component {
       github: author.github,
       linkedin: author.linkedin,
       rss: author.rss,
-      email: author.email
+      email: author.email,
     };
 
     const homeBlock = (
@@ -78,7 +78,10 @@ class PostTemplateDetails extends React.Component {
         >
           <i className="icon-linkedin" />
         </a>
-        <a className="post-single__footer__profile-link" href={`mailto:${links.email}`}>
+        <a
+          className="post-single__footer__profile-link"
+          href={`mailto:${links.email}`}
+        >
           <i className="icon-mail" />
         </a>
         <a
@@ -98,7 +101,10 @@ class PostTemplateDetails extends React.Component {
 
     const commentsBlock = (
       <div>
-        <Disqus postNode={post} siteMetadata={this.props.data.site.siteMetadata} />
+        <Disqus
+          postNode={post}
+          siteMetadata={this.props.data.site.siteMetadata}
+        />
       </div>
     );
 
@@ -108,16 +114,21 @@ class PostTemplateDetails extends React.Component {
         <div className="post-single">
           <div className="post-single__inner">
             <h1 className="post-single__title">{post.frontmatter.title}</h1>
-            <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
+            <div
+              className="post-single__body"
+              dangerouslySetInnerHTML={{ __html: post.html }}
+            />
             <div className="post-single__date">
-              <em>Published {moment(post.frontmatter.date).format('D MMM YYYY')}</em>
+              <em>
+                Published {moment(post.frontmatter.date).format('D MMM YYYY')}
+              </em>
             </div>
           </div>
           <div className="post-single__footer">
             {tagsBlock}
             <hr />
             {profileBlock}
-            {commentsBlock}
+            {/*commentsBlock*/}
           </div>
         </div>
       </div>
