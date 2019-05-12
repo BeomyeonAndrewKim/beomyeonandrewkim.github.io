@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 12 May 2019 16:17:53 GMT</lastBuildDate><item><title><![CDATA[[JavaScript] Immutability (1)]]></title><description><![CDATA[해당 포스팅은 생활코딩의 JavaScript Immutability의 내용을 정리한 내용입니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</guid><pubDate>Mon, 13 May 2019 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;[JavaSciprt] Immutabillity (1)&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 12 May 2019 16:20:53 GMT</lastBuildDate><item><title><![CDATA[[JavaScript] Immutability (1)]]></title><description><![CDATA[해당 포스팅은 생활코딩의 JavaScript Immutability의 내용을 정리한 내용입니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</guid><pubDate>Mon, 13 May 2019 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;[JavaSciprt] Immutabillity (1)&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;해당 포스팅은 생활코딩의 &lt;a href=&quot;https://opentutorials.org/module/4075&quot;&gt;JavaScript Immutability&lt;/a&gt;의 내용을 정리한 내용입니다.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;프로그래밍에서 &lt;code class=&quot;language-text&quot;&gt;immutability&lt;/code&gt;는 데이터의 원본이 훼손되는 것을 막는것을 의미합니다.&lt;/p&gt;
 &lt;p&gt;컴퓨터는 수정과 삭제가 되지 않는 불편함을 개선하기 위해서 출발했다고도 할 수 있을 정도로
@@ -26,10 +26,10 @@ JavaScript에서 변수를 선언하는 방법은 &lt;code class=&quot;language-
 &lt;h3&gt;내용에 대한 불변함(1)&lt;/h3&gt;
 &lt;p&gt;내용은 데이터를 뜻합니다.
 JavaScript의 데이터는 두 가지로 나뉩니다.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Primitive(원시형) - Number, String, Boolean, Null, Undefined, Symbol
-Object(객체형) - Object, Array, Function&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Primitive(원시형) - Number, String, Boolean, Null, Undefined, Symbol
+Object(객체형) - Object, Array, Function&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
 &lt;p&gt;원시형 데이터는 불변합니다. 그리고 그 값이 같다면 메모리에 해당하는 원시형 데이터 하나가 저장되고 그것만을 바라보게 하도록 설계되어있습니다. 객체는 객체안에 여러 프로퍼티가 있기 때문에 바뀔 수 있고 실제로 메모리에 별도로 저장을 합니다. 아래 예시를 확인해주세요.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
       &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; p1 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
