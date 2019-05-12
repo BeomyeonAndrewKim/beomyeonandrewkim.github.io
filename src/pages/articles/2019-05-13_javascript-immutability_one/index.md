@@ -53,8 +53,10 @@ JavaScript에서 변수를 선언하는 방법은 `var`, `const`외에 `let`이�
 내용은 데이터를 뜻합니다.
 JavaScript의 데이터는 두 가지로 나뉩니다.
 
-> Primitive(원시형) - Number, String, Boolean, Null, Undefined, Symbol
-> Object(객체형) - Object, Array, Function
+```
+Primitive(원시형) - Number, String, Boolean, Null, Undefined, Symbol
+Object(객체형) - Object, Array, Function
+```
 
 원시형 데이터는 불변합니다. 그리고 그 값이 같다면 메모리에 해당하는 원시형 데이터 하나가 저장되고 그것만을 바라보게 하도록 설계되어있습니다. 객체는 객체안에 여러 프로퍼티가 있기 때문에 바뀔 수 있고 실제로 메모리에 별도로 저장을 합니다. 아래 예시를 확인해주세요.
 
