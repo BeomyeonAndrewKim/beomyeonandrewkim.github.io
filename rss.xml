@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 12 May 2019 16:20:53 GMT</lastBuildDate><item><title><![CDATA[[JavaScript] Immutability (1)]]></title><description><![CDATA[해당 포스팅은 생활코딩의 JavaScript Immutability의 내용을 정리한 내용입니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</guid><pubDate>Mon, 13 May 2019 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;[JavaSciprt] Immutabillity (1)&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 21 May 2019 05:07:53 GMT</lastBuildDate><item><title><![CDATA[[JavaScript] Immutability (1)]]></title><description><![CDATA[해당 포스팅은 생활코딩의 JavaScript Immutability의 내용을 정리한 내용입니다.]]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</guid><pubDate>Mon, 13 May 2019 18:15:03 GMT</pubDate><content:encoded>&lt;h1&gt;[JavaSciprt] Immutabillity (1)&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;해당 포스팅은 생활코딩의 &lt;a href=&quot;https://opentutorials.org/module/4075&quot;&gt;JavaScript Immutability&lt;/a&gt;의 내용을 정리한 내용입니다.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;프로그래밍에서 &lt;code class=&quot;language-text&quot;&gt;immutability&lt;/code&gt;는 데이터의 원본이 훼손되는 것을 막는것을 의미합니다.&lt;/p&gt;
 &lt;p&gt;컴퓨터는 수정과 삭제가 되지 않는 불편함을 개선하기 위해서 출발했다고도 할 수 있을 정도로
@@ -112,7 +112,7 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/consalad_1-ac7ce30e8a22f0beda687b7d8da861ea-abbc7.png&quot;
+    href=&quot;/static/consalad_first-ac7ce30e8a22f0beda687b7d8da861ea-abbc7.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -131,11 +131,11 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;consalad_1&quot;
         title=&quot;&quot;
-        src=&quot;/static/consalad_1-ac7ce30e8a22f0beda687b7d8da861ea-c83f1.png&quot;
-        srcset=&quot;/static/consalad_1-ac7ce30e8a22f0beda687b7d8da861ea-569e3.png 240w,
-/static/consalad_1-ac7ce30e8a22f0beda687b7d8da861ea-93400.png 480w,
-/static/consalad_1-ac7ce30e8a22f0beda687b7d8da861ea-c83f1.png 960w,
-/static/consalad_1-ac7ce30e8a22f0beda687b7d8da861ea-abbc7.png 1402w&quot;
+        src=&quot;/static/consalad_first-ac7ce30e8a22f0beda687b7d8da861ea-c83f1.png&quot;
+        srcset=&quot;/static/consalad_first-ac7ce30e8a22f0beda687b7d8da861ea-569e3.png 240w,
+/static/consalad_first-ac7ce30e8a22f0beda687b7d8da861ea-93400.png 480w,
+/static/consalad_first-ac7ce30e8a22f0beda687b7d8da861ea-c83f1.png 960w,
+/static/consalad_first-ac7ce30e8a22f0beda687b7d8da861ea-abbc7.png 1402w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -184,7 +184,7 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-97f0b.jpeg&quot;
+    href=&quot;/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-97f0b.jpeg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -203,14 +203,14 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;consalad_2&quot;
         title=&quot;&quot;
-        src=&quot;/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-d564d.jpeg&quot;
-        srcset=&quot;/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-865fd.jpeg 240w,
-/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-d40a0.jpeg 480w,
-/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-d564d.jpeg 960w,
-/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-c67c1.jpeg 1440w,
-/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-667be.jpeg 1920w,
-/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-85f07.jpeg 2880w,
-/static/consalad_2-504097ad217fb28ef12cbbc5a5932317-97f0b.jpeg 4032w&quot;
+        src=&quot;/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-d564d.jpeg&quot;
+        srcset=&quot;/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-865fd.jpeg 240w,
+/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-d40a0.jpeg 480w,
+/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-d564d.jpeg 960w,
+/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-c67c1.jpeg 1440w,
+/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-667be.jpeg 1920w,
+/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-85f07.jpeg 2880w,
+/static/consalad_second-504097ad217fb28ef12cbbc5a5932317-97f0b.jpeg 4032w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
