@@ -46,7 +46,7 @@ console.log(c); // TypeError:  Assignment to constant variable
 ```
 
 그리고 ES6에 `const`라는 키워드가 탄생했습니다. `const`를 사용해 변수를 선언하면 `var`키워드를 사용해 선언했던 변수와 달리 **재대입**이 불가능합니다. 불변성이 잘 지켜졌네요.
-JavaScript에서 변수를 선언하는 방법은 `var`, `const`외에 `let`이라는 키워드도 ES6에서 새로 추가되었습니다. 변수를 선언하는 세 키워드에 대한 내용은 제 블로그 이전에 [[JavaScript] var, let, const](https://beomyeonandrewkim.github.io/posts/javasciript/var-let-const)포스팅을 참고 부탁드립니다.
+JavaScript에서 변수를 선언하는 방법은 `var`, `const`외에 `let`이라는 키워드도 ES6에서 새로 추가되었습니다. 변수를 선언하는 세 키워드에 대한 내용은 제 블로그 이전에 [[JavaScript] var, let, const](https://beomyeonandrewkim.github.io/posts/javascript/var-let-const)포스팅을 참고 부탁드립니다.
 
 ### 내용에 대한 불변함(1)
 

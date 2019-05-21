@@ -3,7 +3,7 @@ title: "[JavaScript] Map, Set"
 date: "2018-04-08T18:15:03.284Z"
 layout: post
 draft: false
-path: "/posts/javasciript/map-set"
+path: "/posts/javascript/map-set"
 category: "JavaScript"
 tags:
   - "JavaScript"

@@ -17,7 +17,7 @@ description: '요즘 핫한 기업인 레이니스트에서 주최하는 세번�
 
 콘샐러드는 레이니스트의 개발자분들이 뱅크샐러드를 만들어가면서 개발적으로 겪었던 에피소드를 공유하고 채용에 대해 자유롭게 이야기를 나눌 수 있는 컨퍼런스다.
 
-![consalad_1](./consalad_first.png)
+![consalad_1](consalad_first.png)
 
 <center>출처: 콘샐러드 홈페이지</center>
 
@@ -77,7 +77,7 @@ if (data.depthOne?.depthTwo?.value) {
 
 #### 마무리
 
-![consalad_2](./consalad_second.jpeg)
+![consalad_2](consalad_second.jpeg)
 
 개별 발표가 끝나고 파이어사이드챗과 네트워킹 행사를 경험하면서 레이니스트의 구성원들의 커뮤니케이션 능력에 감탄을 할 수 밖에 없었다. 기획자는 없지만 활동적이고 커뮤니케이션 능력이 뛰어난 소수의 개발자들이 만들어나가는 이 서비스가 어디까지 성장할 수 있을까?라는 기대를 하게 만드는 시간이었다.
 

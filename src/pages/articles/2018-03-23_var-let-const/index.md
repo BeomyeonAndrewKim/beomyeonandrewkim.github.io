@@ -3,7 +3,7 @@ title: "[JavaScript] var, let, const"
 date: "2018-03-23T22:12:03.284Z"
 layout: post
 draft: false
-path: "/posts/javasciript/var-let-const"
+path: "/posts/javascript/var-let-const"
 category: "JavaScript"
 tags:
   - "JavaScript"

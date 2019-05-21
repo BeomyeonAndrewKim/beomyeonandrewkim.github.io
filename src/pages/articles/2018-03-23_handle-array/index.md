@@ -3,7 +3,7 @@ title: "[JavaScript] 배열의 요소 조작하기"
 date: "2018-03-23T22:12:03.284Z"
 layout: post
 draft: false
-path: "/posts/javasciript/handle-array"
+path: "/posts/javascript/handle-array"
 category: "JavaScript"
 tags:
   - "JavaScript"

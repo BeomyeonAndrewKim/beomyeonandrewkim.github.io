@@ -62,7 +62,7 @@ function alpha_string46(s) {
 console.log(alpha_string46('a234'));
 ```
 
-Javasciript 정규식이 활용되었다. 정규식은 [요기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D '요기') 참조. 아직 배우지 않은 부분이지만 비교 연산시 유용하게 활용 할 것 같다.
+JavaSciript 정규식이 활용되었다. 정규식은 [요기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D '요기') 참조. 아직 배우지 않은 부분이지만 비교 연산시 유용하게 활용 할 것 같다.
 
 ```javascript
 function alpha_string46(s) {

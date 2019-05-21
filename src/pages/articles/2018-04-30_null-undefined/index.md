@@ -1,16 +1,16 @@
 ---
-title: "[JavaScript] null, undefined"
-date: "2018-04-30T18:15:03.284Z"
+title: '[JavaScript] null, undefined'
+date: '2018-04-30T18:15:03.284Z'
 layout: post
 draft: false
-path: "/posts/javasciript/null-undefined"
-category: "JavaScript"
+path: '/posts/javascript/null-undefined'
+category: 'JavaScript'
 tags:
-  - "JavaScript"
-  - "자바스크립트"
-  - "null"
-  - "undefined"
-description: "undefined와 null은 Javascript에서 많이 다뤄지는 주제입니다.(~~조금은 부정적으로다가..~~)"
+  - 'JavaScript'
+  - '자바스크립트'
+  - 'null'
+  - 'undefined'
+description: 'undefined와 null은 Javascript에서 많이 다뤄지는 주제입니다.(~~조금은 부정적으로다가..~~)'
 ---
 
 `undefined`와 `null`은 Javascript 에서 많이 다뤄지는 주제입니다.(~~조금은 부정적으로다가..~~)

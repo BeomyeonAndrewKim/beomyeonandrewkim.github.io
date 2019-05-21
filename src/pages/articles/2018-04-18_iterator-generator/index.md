@@ -3,7 +3,7 @@ title: "[JavaScript] Iterator, Generator"
 date: "2018-04-18T18:15:03.284Z"
 layout: post
 draft: false
-path: "/posts/javasciript/iterator-generator"
+path: "/posts/javascript/iterator-generator"
 category: "JavaScript"
 tags:
   - "JavaScript"
