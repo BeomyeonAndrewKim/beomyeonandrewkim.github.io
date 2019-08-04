@@ -22,11 +22,11 @@ React 앱에서 성능 문제를 겪고 있거나 벤치마크하고 있는 경�
 
 빌드 프로세스가 올바르게 설정되었는지 잘 모르는 경우에는 [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)를 설치하여 확인할 수 있습니다. 프로덕션 모드의 React 기반 사이트에 접속하면 아이콘의 배경이 어두운 색으로 표시됩니다.
 
-<img src="../images/docs/devtools-prod.png" style="max-width:100%" alt="React DevTools on a website with production version of React">
+<img src="https://reactjs.org/static/devtools-prod-d0f767f80866431ccdec18f200ca58f1-1e9b4.png" style="max-width:100%" alt="React DevTools on a website with production version of React">
 
 개발 모드의 React 기반 사이트에 접속하면 아이콘의 배경이 빨간색으로 표시됩니다.
 
-<img src="../images/docs/devtools-dev.png" style="max-width:100%" alt="React DevTools on a website with development version of React">
+<img src="https://reactjs.org/static/devtools-dev-e434ce2f7e64f63e597edf03f4465694-1e9b4.png" style="max-width:100%" alt="React DevTools on a website with development version of React">
 
 앱을 개발할 때는 개발 모드를, 사용자에게 앱을 배포할 때는 프로덕션 모드를 사용해야 합니다.
 
@@ -166,7 +166,7 @@ production 빌드에서만 필요한 작업이라는 점을 기억하세요. Rea
 
 **개발** 모드에서 지원되는 브라우저의 Performance 탭을 사용하여 어떻게 컴포넌트가 마운트, 업데이트, 그리고 마운트 해제되는지 시각화할 수 있습니다. 예를 들면.
 
-<center><img src="../images/blog/react-perf-chrome-timeline.png" style="max-width:100%" alt="React components in Chrome timeline" /></center>
+<center><img src="https://reactjs.org/static/react-perf-chrome-timeline-64d522b74fb585f1abada9801f85fa9d-dcc89.png" style="max-width:100%" alt="React components in Chrome timeline" /></center>
 
 Chrome에서 이 작업을 하려면
 
@@ -225,13 +225,13 @@ React DevTools를 활용해 가상 DOM이 리렌더링되는 현상을 시각화
 
 개발자 콘솔의 **React** 탭에서 **Highlight Updates** 옵션을 선택하세요.
 
-<center><img src="../images/blog/devtools-highlight-updates.png" style="max-width:100%; margin-top:10px;" alt="How to enable highlight updates" /></center>
+<center><img src=".https://reactjs.org/static/devtools-highlight-updates-97eda4825de476af4515435a0c36ca78-a62e3.png" style="max-width:100%; margin-top:10px;" alt="How to enable highlight updates" /></center>
 
 페이지와 상호 작용하면서 리렌더링된 컴포넌트 주변 색 테두리가 순간적으로 나타나는 것을 볼 수 있습니다. 이렇게 하면 불필요한 리렌더링을 발견할 수 있습니다. 해당 React DevTools의 기능은 [Ben Edelstein](https://blog.logrocket.com/@edelstein)의 [블로그 포스트](https://blog.logrocket.com/make-react-fast-again-part-3-highlighting-component-updates-6119e45e6833)에서 확인할 수 있습니다.
 
 아래 예시를 살펴보세요.
 
-<center><img src="../images/blog/highlight-updates-example.gif" style="max-width:100%; margin-top:20px;" alt="React DevTools Highlight Updates example" /></center>
+<center><img src="https://reactjs.org/highlight-updates-example-7a42123e91b1b460b1a65605d6ff0d2b.gif" style="max-width:100%; margin-top:20px;" alt="React DevTools Highlight Updates example" /></center>
 
 두 번째 할 일을 입력하면 모든 key 입력 시 첫 번째 할 일이 화면에서 깜박입니다. 이 현상은 React에 의해 input과 함께 다시 렌더링 된다는 것을 의미합니다. 이런 현상을 때론 "wasted" 렌더라고 부릅니다. 첫 번째 할 일의 내용이 변경되지 않았기 때문에 불필요한 렌더링이라는 것을 우리는 알지만 React는 모릅니다.
 
@@ -251,7 +251,7 @@ shouldComponentUpdate(nextProps, nextState) {
 
 컴포넌트의 하위트리를 살펴보세요. 각 항목에 대해 `SCU`는 `shouldComponentUpdate`가 반환한 것을 나타내며, `vDOMEq`는 React 엘리먼트가 동일한지 여부를 표시합니다. 마지막으로 원의 색은 컴포넌트를 조정해야 하는지 여부를 나타냅니다.
 
-<figure><img src="../images/docs/should-component-update.png" style="max-width:100%" /></figure>
+<figure><img src="https://reactjs.org/static/should-component-update-5ee1bdf4779af06072a17b7a0654f6db-9a3ff.png" style="max-width:100%" /></figure>
 
 `shouldComponentUpdate`는 C2에 뿌리를 둔 하위트리에서 `false`를 반환했기 때문에 React는 C2를 렌더링하려고 시도하지 않았으므로 C4 및 C5에서  `shouldComponentUpdate`를 호출할 필요가 없었습니다.
 
