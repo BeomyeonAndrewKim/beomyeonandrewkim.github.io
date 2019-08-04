@@ -18,11 +18,11 @@ _아래글은 `ko.reactjs.org` 공식문서 번역 프로젝트의 일환으로 
 
 Hook은 JavaScript 함수입니다. 하지만 Hook을 사용할 때는 두 가지 규칙을 준수해야 합니다. 우리는 이러한 규칙들을 자동으로 강제하기 위한 [linter 플러그인](https://www.npmjs.com/package/eslint-plugin-react-hooks)을 제공하고 있습니다.
 
-### 최상위(at the Top Level)에서만 Hook을 호출해야 합니다 {#only-call-hooks-at-the-top-level}
+### 최상위(at the Top Level)에서만 Hook을 호출해야 합니다
 
 **반복문, 조건문 혹은 중첩된 함수 내에서 Hook을 호출하지 마세요.** 대신 항상 React 함수의 최상위(at the top level)에서 Hook을 호출해야 합니다. 이 규칙을 따르면 컴포넌트가 렌더링 될 때마다 항상 동일한 순서로 Hook이 호출되는 것이 보장됩니다. 이러한 점은 React가 `useState` 와 `useEffect` 가 여러 번 호출되는 중에도 Hook의 상태를 올바르게 유지할 수 있도록 해줍니다. 이 점에 대해서 궁금하다면 [아래](#explanation)에서 자세히 설명해 드리겠습니다.
 
-### 오직 React 함수 내에서 Hook을 호출해야 합니다 {#only-call-hooks-from-react-functions}
+### 오직 React 함수 내에서 Hook을 호출해야 합니다
 
 **Hook을 일반적인 JavaScript 함수에서 호출하지 마세요.** 대신 아래와 같이 호출할 수 있습니다.
 
@@ -140,6 +140,6 @@ useEffect(function persistForm() {
 
 **[제공된 lint 규칙](https://www.npmjs.com/package/eslint-plugin-react-hooks)을 활용한다면 이 문제에 대해 걱정할 필요는 없습니다.** 그러나 이제 당신은 왜 Hook이 이런 식으로 동작하는지 그리고 이 규칙이 어떤 문제를 방지하는지 알고 있습니다.
 
-## 다음 단계 {#next-steps}
+## 다음 단계
 
 마침내 [Custom Hook](https://reactjs.org/docs/hooks-custom.html)을 작성하는 법을 배울 준비가 되었습니다! Custom Hook은 React에서 제공하는 Hook을 당신의 추상화된 로직으로 사용할 수 있도록 결합해주고 다른 컴포넌트 사이에서 공통의 상태 관련 로직을 재사용 할 수 있도록 해줍니다.
