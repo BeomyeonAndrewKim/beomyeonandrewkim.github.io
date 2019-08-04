@@ -14,7 +14,7 @@ description: '내부적으로 React는 UI를 최신화하기 위해 비용이 �
 
 내부적으로 React는 UI를 최신화하기 위해 비용이 많이 드는 DOM 작업의 수를 최소화하기 위해 몇 가지 기발한 방법을 활용합니다. 많은 애플리케이션에서 React를 사용하면 성능을 특별히 최적화하기 위해 많은 작업을 수행하지 않고도 빠른 사용자 인터페이스로 이어질 수 있습니다. 그럼에도 불구하고 React 애플리케이션의 속도를 높일 수 있는 몇 가지 방법이 있습니다.
 
-## 프로덕션 빌드를 활용하세요 {#use-the-production-build}
+## 프로덕션 빌드를 활용하세요
 
 React 앱에서 성능 문제를 겪고 있거나 벤치마크하고 있는 경우, 축소된 프로덕션 빌드를 사용하여 테스트를 수행하고 있는지 확인하세요.
 
@@ -32,7 +32,7 @@ React 앱에서 성능 문제를 겪고 있거나 벤치마크하고 있는 경�
 
 아래에서 프로덕션 용도의 앱을 제작할 수 있는 방법을 확인할 수 있습니다.
 
-### Create React App {#create-react-app}
+### Create React App
 
 프로젝트가 Create React App 기반이라면 아래 명령어를 실행하세요.
 
@@ -44,7 +44,7 @@ npm run build
 
 프로덕션 환경에 배포하기 전에만 필요하다는 것을 기억하세요. 정상적인 개발 환경에선 `npm start`를 이용하세요.
 
-### 단일 파일 빌드 {#single-file-builds}
+### 단일 파일 빌드
 
 React 및 React DOM의 프로덕션 준비 버전을 단일 파일로 제공합니다.
 
@@ -55,7 +55,7 @@ React 및 React DOM의 프로덕션 준비 버전을 단일 파일로 제공합�
 
 `.production.min.js`로 끝나는 React 파일만이 프로덕션 환경에 적합합니다.
 
-### Brunch {#brunch}
+### Brunch
 
 가장 효율적인 Brunch 프로덕션 빌드를 위해 [`terser-brunch`](https://github.com/brunch/terser-brunch)를 설치하세요.
 
@@ -75,7 +75,7 @@ brunch build -p
 
 프로덕션 빌드에 대해서만 이 작업을 수행하면 됩니다. React의 유용한 경고문구를 숨기고 빌드를 훨씬 느리게 만들기 때문에 개발 환경에서 플러그인을 적용하거나 `-p`플래그를 추가하지 마세요.
 
-### Browserify {#browserify}
+### Browserify
 
 가장 효율적인 Browserify 프로덕션 빌드를 위해 몇 가지 플러그인을 설치하세요.
 
@@ -104,7 +104,7 @@ browserify ./index.js \
 
 프로덕션 빌드에서만 필요한 작업이라는 점을 기억하세요. 이러한 플러그인은 React의 유용한 경고를 숨기고 빌드를 훨씬 느리게 만들기 때문에 개발 중에는 적용하지 마세요.
 
-### Rollup {#rollup}
+### Rollup
 
 가장 효율적인 Rollup 프로덕션 빌드를 위해 몇 가지 플러그인을 설치하세요.
 
@@ -138,7 +138,7 @@ plugins: [
 
 프로덕션 빌드에서만 필요한 작업이라는 점을 기억하세요. React의 유용한 경고를 숨기고 빌드를 훨씬 느리게 만들기 때문에 `terser` 플러그인이나 `replace` 플러그인을 개발 중에  `'production'` 값으로 적용하지 마세요.
 
-### webpack {#webpack}
+### webpack
 
 >**주의**
 >
@@ -162,7 +162,7 @@ module.exports = {
 
 production 빌드에서만 필요한 작업이라는 점을 기억하세요. React의 유용한 경고를 숨기고 빌드를 훨씬 느리게 만들기 때문에 `TerserPlugin`을 개발 중에 적용하지 마세요.
 
-## Chrome Performance 탭으로 컴포넌트 프로파일링 {#profiling-components-with-the-chrome-performance-tab}
+## Chrome Performance 탭으로 컴포넌트 프로파일링
 
 **개발** 모드에서 지원되는 브라우저의 Performance 탭을 사용하여 어떻게 컴포넌트가 마운트, 업데이트, 그리고 마운트 해제되는지 시각화할 수 있습니다. 예를 들면.
 
@@ -188,7 +188,7 @@ Chrome에서 이 작업을 하려면
 
 현재는 Chrome, Edge 그리고 IE만이 이 기능을 지원하는 브라우저지만 [User Timing API](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)가 표준으로 사용되기 때문에 더 많은 브라우저가 지원을 추가할 것으로 예상됩니다.
 
-## Profiler DevTools Profiler로 컴포넌트 프로파일링 {#profiling-components-with-the-devtools-profiler}
+## Profiler DevTools Profiler로 컴포넌트 프로파일링
 
 `react-dom` 16.5+와  `react-native` 0.57+는 React DevTools Profiler를 사용하여 개발 모드에서 향상된 프로파일링 기능을 제공합니다.
 Profiler에 대한 내용은 블로그 포스트 ["Introducing the React Profiler"](/blog/2018/09/10/introducing-the-react-profiler.html)에서 확인할 수 있습니다.
@@ -205,13 +205,13 @@ Profiler에 대한 영상도 [YouTube](https://www.youtube.com/watch?v=nySib7ipZ
 > `react-dom`의 프로덕션 프로파일링 bundle은 `react-dom/profiling`으로 이용할 수 있습니다.
 > bundle을 사용하는 법에 대한 자세한 내용은 [fb.me/react-profiling](https://fb.me/react-profiling)에서 확인하세요.
 
-## 긴 목록 가상화하세요 {#virtualize-long-lists}
+## 긴 목록 가상화하세요
 
 애플리케이션에서 긴 목록(수백 또는 수천행)을 렌더링하는 경우 'windowing'이라는 기법을 사용하는 것을 추천합니다. 이 기법은 주어진 시간에 목록의 부분 목록만 렌더링하며 컴포넌트를 다시 렌더링하는 데 걸리는 시간과 생성된 DOM 노드의 수를 크게 줄일 수 있습니다.
 
 [react-window](https://react-window.now.sh/)와 [react-virtualized](https://bvaughn.github.io/react-virtualized/)는 널리 알려진 windowing 라이브러리입니다. 목록, 그리드 및 표 형식 데이터를 표시하기 위한 몇 가지 재사용 가능한 컴포넌트를 제공합니다. 애플리케이션의 특정한 활용 사례에 더 적합한 것을 원한다면 Twitter처럼 자신만의 windowing 컴포넌트를 만들 수 있습니다.
 
-## 재조정을 피하세요 {#avoid-reconciliation}
+## 재조정을 피하세요
 
 React는 렌더링 된 UI의 internal representation을 빌드하고 유지 관리합니다. 여기에는 컴포넌트에서 반환되는 React 엘리먼트가 포함됩니다. representation은 React가 JavaScript 객체에서의 작업보다 느릴 수 있기 때문에 필요에 따라 DOM 노드를 만들고 기존 노드에 접근하지 못하도록 합니다. 때론 "virtual DOM"이라고 불리기도 하지만, React Native에서 같은 방식으로 동작합니다.
 
@@ -247,7 +247,7 @@ shouldComponentUpdate(nextProps, nextState) {
 
 대부분의 경우 `shouldComponentUpdate()`를 직접 작성하는 대신 [`React.PureComponent`](/docs/react-api.html#reactpurecomponent)에서 상속 받을 수 있습니다. 그것은 현재와 이전의 prop과 state의 얕은 비교로 `shouldComponentUpdate()`를 호출하는 것과 같습니다.
 
-## shouldComponentUpdate In Action {#shouldcomponentupdate-in-action}
+## shouldComponentUpdate In Action
 
 컴포넌트의 하위트리를 살펴보세요. 각 항목에 대해 `SCU`는 `shouldComponentUpdate`가 반환한 것을 나타내며, `vDOMEq`는 React 엘리먼트가 동일한지 여부를 표시합니다. 마지막으로 원의 색은 컴포넌트를 조정해야 하는지 여부를 나타냅니다.
 
@@ -261,7 +261,7 @@ C1과 C3의 경우 `shouldComponentUpdate`가 `true`를 반환했으므로 React
 
 React는 C6에 대해 DOM 변경(mutation)을 수행하면 되는데, 이는 불가피했습니다. C8의 경우 렌더링 된 React 엘리먼트를 비교해서 빠져(bail out)나오고 C2의 하위트리와 C7의 경우 `shouldComponentUpdate`를 구제할 때 엘리먼트를 비교할 필요조차 없었고 `render`도 호출되지 않았습니다.
 
-## 예시 {#examples}
+## 예시
 
 컴포넌트가 변경되는 유일한 방법이 `props.color` 또는 `state.count`변수가 변경되는 경우라면 `shouldComponentUpdate`에서 다음을 확인하세요.
 
@@ -355,7 +355,7 @@ class WordAdder extends React.Component {
 
 문제는 `PureComponent`가 `this.props.words`의 이전 값과 새로운 값을 간단하게 비교한다는 점입니다. 이 코드는 `WordAdder`의 `handleClick`메서드에서 `words`배열을 변경시키기 때문에 배열의 실제 단어가 변경되었다 하더라도 `this.props.words`의 이전 값과 새로운 값은 동일하게 비교됩니다. 따라서 `ListOfWords`는 렌더링 되어야 하는 새로운 단어가 있어도 업데이트되지 않습니다.
 
-## 데이터를 변형시키지 않음으로써 얻는 효과 {#the-power-of-not-mutating-data}
+## 데이터를 변형시키지 않음으로써 얻는 효과
 
 이 문제를 피하는 가장 간단한 방법은 props와 state로 사용중인 값의 변경을 피하는 것입니다. 예를 들어 `handleClick`메서드는 `concat`을 사용해서 다시 작성될 수 있습니다.
 
@@ -405,7 +405,7 @@ function updateColorMap(colormap) {
 
 Create React App을 사용하고 있다면 `Object.assign`과 object spread 문법은 기본적으로 활용 가능합니다.
 
-## 불변의 데이터 구조 사용 {#using-immutable-data-structures}
+## 불변의 데이터 구조 사용
 
 [Immutable.js](https://github.com/facebook/immutable-js)는 이 문제를 해결할 수 있는 또 다른 방법입니다. 구조적 공유(Structural sharing)를 통해 작동되는 지속성과 불변성을 지닌 컬렉션을 제공합니다.
 
