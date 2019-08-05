@@ -9,8 +9,10 @@ tags:
   - 'Frontend'
   - 'React'
   - 'Performance'
-description: '내부적으로 React는 UI를 최신화하기 위해 비용이 많이 드는 DOM 작업의 수를 최소화하기 위해 몇 가지 기발한 방법을 활용합니다.'
+description: '아래글은 ko.reactjs.org 공식문서 번역 프로젝트의 일환으로 contribute한 번역글입니다.'
 ---
+
+_아래글은 `ko.reactjs.org` 공식문서 번역 프로젝트의 일환으로 contribute한 번역글입니다._
 
 내부적으로 React는 UI를 최신화하기 위해 비용이 많이 드는 DOM 작업의 수를 최소화하기 위해 몇 가지 기발한 방법을 활용합니다. 많은 애플리케이션에서 React를 사용하면 성능을 특별히 최적화하기 위해 많은 작업을 수행하지 않고도 빠른 사용자 인터페이스로 이어질 수 있습니다. 그럼에도 불구하고 React 애플리케이션의 속도를 높일 수 있는 몇 가지 방법이 있습니다.
 
@@ -81,7 +83,7 @@ brunch build -p
 
 ```
 # npm을 사용하는 경우
-npm install --save-dev envify terser uglifyify 
+npm install --save-dev envify terser uglifyify
 
 # Yarn을 사용하는 경우
 yarn add --dev envify terser uglifyify
@@ -89,9 +91,9 @@ yarn add --dev envify terser uglifyify
 
 프로덕션 빌드를 만들려면, 다음 변환을 추가하세요. **(순서는 중요합니다.)**
 
-* [`envify`](https://github.com/hughsk/envify) 변환은 올바른 빌드 환경이 설정되도록 합니다. 또한 전역 (`-g`)으로 변환시킵니다.
-* [`uglifyify`](https://github.com/hughsk/uglifyify) 변환은 개발에서만 사용하는 package를 제거합니다. 또한 전역(`-g`)으로 변환시킵니다.
-* 마지막으로 최종 bundle은 mangling을 위해 [`terser`](https://github.com/terser-js/terser)로 연결됩니다. ([원리](https://github.com/hughsk/uglifyify#motivationusage))
+- [`envify`](https://github.com/hughsk/envify) 변환은 올바른 빌드 환경이 설정되도록 합니다. 또한 전역 (`-g`)으로 변환시킵니다.
+- [`uglifyify`](https://github.com/hughsk/uglifyify) 변환은 개발에서만 사용하는 package를 제거합니다. 또한 전역(`-g`)으로 변환시킵니다.
+- 마지막으로 최종 bundle은 mangling을 위해 [`terser`](https://github.com/terser-js/terser)로 연결됩니다. ([원리](https://github.com/hughsk/uglifyify#motivationusage))
 
 예시를 확인하세요.
 
@@ -118,32 +120,32 @@ yarn add --dev rollup-plugin-commonjs rollup-plugin-replace rollup-plugin-terser
 
 프로덕션 빌드를 만들려면, 다음 플러그인을 추가하세요. **(순서는 중요합니다.)**
 
-*  [`replace`](https://github.com/rollup/rollup-plugin-replace) 플러그인은 올바른 빌드 환경이 설정되도록 해줍니다.
-*  [`commonjs`](https://github.com/rollup/rollup-plugin-commonjs) 플러그인은 CommonJS를 지원하도록 해줍니다.
-*  [`terser`](https://github.com/TrySound/rollup-plugin-terser) 플러그인은 최종 bundle을 압축하고 mangle 해줍니다.
+- [`replace`](https://github.com/rollup/rollup-plugin-replace) 플러그인은 올바른 빌드 환경이 설정되도록 해줍니다.
+- [`commonjs`](https://github.com/rollup/rollup-plugin-commonjs) 플러그인은 CommonJS를 지원하도록 해줍니다.
+- [`terser`](https://github.com/TrySound/rollup-plugin-terser) 플러그인은 최종 bundle을 압축하고 mangle 해줍니다.
 
 ```js
 plugins: [
   // ...
   require('rollup-plugin-replace')({
-    'process.env.NODE_ENV': JSON.stringify('production')
+    'process.env.NODE_ENV': JSON.stringify('production'),
   }),
   require('rollup-plugin-commonjs')(),
   require('rollup-plugin-terser')(),
   // ...
-]
+];
 ```
 
 전체적인 설정 예시는 [gist](https://gist.github.com/Rich-Harris/cb14f4bc0670c47d00d191565be36bf0)를 참고하세요.
 
-프로덕션 빌드에서만 필요한 작업이라는 점을 기억하세요. React의 유용한 경고를 숨기고 빌드를 훨씬 느리게 만들기 때문에 `terser` 플러그인이나 `replace` 플러그인을 개발 중에  `'production'` 값으로 적용하지 마세요.
+프로덕션 빌드에서만 필요한 작업이라는 점을 기억하세요. React의 유용한 경고를 숨기고 빌드를 훨씬 느리게 만들기 때문에 `terser` 플러그인이나 `replace` 플러그인을 개발 중에 `'production'` 값으로 적용하지 마세요.
 
 ### webpack
 
->**주의**
+> **주의**
 >
->Create React App을 사용한다면 [위 설명](#create-react-app)을 참고하세요.<br>
->이 부분은 webpack을 직접 구성할 경우에만 해당합니다.
+> Create React App을 사용한다면 [위 설명](#create-react-app)을 참고하세요.<br>
+> 이 부분은 webpack을 직접 구성할 경우에만 해당합니다.
 
 Webpack v4 이상에서는 프로덕션 모드에서 기본적으로 코드를 축소합니다.
 
@@ -190,7 +192,7 @@ Chrome에서 이 작업을 하려면
 
 ## Profiler DevTools Profiler로 컴포넌트 프로파일링
 
-`react-dom` 16.5+와  `react-native` 0.57+는 React DevTools Profiler를 사용하여 개발 모드에서 향상된 프로파일링 기능을 제공합니다.
+`react-dom` 16.5+와 `react-native` 0.57+는 React DevTools Profiler를 사용하여 개발 모드에서 향상된 프로파일링 기능을 제공합니다.
 Profiler에 대한 내용은 블로그 포스트 ["Introducing the React Profiler"](/blog/2018/09/10/introducing-the-react-profiler.html)에서 확인할 수 있습니다.
 Profiler에 대한 영상도 [YouTube](https://www.youtube.com/watch?v=nySib7ipZdk)에서 확인 가능합니다.
 
@@ -253,7 +255,7 @@ shouldComponentUpdate(nextProps, nextState) {
 
 <figure><img src="https://reactjs.org/static/should-component-update-5ee1bdf4779af06072a17b7a0654f6db-9a3ff.png" style="max-width:100%" /></figure>
 
-`shouldComponentUpdate`는 C2에 뿌리를 둔 하위트리에서 `false`를 반환했기 때문에 React는 C2를 렌더링하려고 시도하지 않았으므로 C4 및 C5에서  `shouldComponentUpdate`를 호출할 필요가 없었습니다.
+`shouldComponentUpdate`는 C2에 뿌리를 둔 하위트리에서 `false`를 반환했기 때문에 React는 C2를 렌더링하려고 시도하지 않았으므로 C4 및 C5에서 `shouldComponentUpdate`를 호출할 필요가 없었습니다.
 
 C1과 C3의 경우 `shouldComponentUpdate`가 `true`를 반환했으므로 React가 트리의 가장 하위에 가서 확인해야 했습니다. C6의 경우 `shouldComponentUpdate`는 `true`를 반환했고 렌더링 된 엘리먼트는 동일하지 않기 때문에 React는 DOM을 업데이트해야 했습니다.
 
@@ -269,7 +271,7 @@ React는 C6에 대해 DOM 변경(mutation)을 수행하면 되는데, 이는 불
 class CounterButton extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {count: 1};
+    this.state = { count: 1 };
   }
 
   shouldComponentUpdate(nextProps, nextState) {
@@ -286,7 +288,8 @@ class CounterButton extends React.Component {
     return (
       <button
         color={this.props.color}
-        onClick={() => this.setState(state => ({count: state.count + 1}))}>
+        onClick={() => this.setState(state => ({ count: state.count + 1 }))}
+      >
         Count: {this.state.count}
       </button>
     );
@@ -300,14 +303,15 @@ class CounterButton extends React.Component {
 class CounterButton extends React.PureComponent {
   constructor(props) {
     super(props);
-    this.state = {count: 1};
+    this.state = { count: 1 };
   }
 
   render() {
     return (
       <button
         color={this.props.color}
-        onClick={() => this.setState(state => ({count: state.count + 1}))}>
+        onClick={() => this.setState(state => ({ count: state.count + 1 }))}
+      >
         Count: {this.state.count}
       </button>
     );
@@ -330,7 +334,7 @@ class WordAdder extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      words: ['marklar']
+      words: ['marklar'],
     };
     this.handleClick = this.handleClick.bind(this);
   }
@@ -339,7 +343,7 @@ class WordAdder extends React.Component {
     // This section is bad style and causes a bug
     const words = this.state.words;
     words.push('marklar');
-    this.setState({words: words});
+    this.setState({ words: words });
   }
 
   render() {
@@ -389,7 +393,7 @@ function updateColorMap(colormap) {
 
 ```js
 function updateColorMap(colormap) {
-  return Object.assign({}, colormap, {right: 'blue'});
+  return Object.assign({}, colormap, { right: 'blue' });
 }
 ```
 
@@ -399,7 +403,7 @@ function updateColorMap(colormap) {
 
 ```js
 function updateColorMap(colormap) {
-  return {...colormap, right: 'blue'};
+  return { ...colormap, right: 'blue' };
 }
 ```
 
@@ -409,9 +413,9 @@ Create React App을 사용하고 있다면 `Object.assign`과 object spread 문�
 
 [Immutable.js](https://github.com/facebook/immutable-js)는 이 문제를 해결할 수 있는 또 다른 방법입니다. 구조적 공유(Structural sharing)를 통해 작동되는 지속성과 불변성을 지닌 컬렉션을 제공합니다.
 
-* *불변성*: 일단 생성되면 컬렉션은 다른 시점에서 변경될 수 없습니다.
-* *지속성*: 새로운 컬렉션은 이전 컬렉션과 set과 같은 변화로부터 생성될 수 있습니다. 기존의 컬렉션은 새 컬렉션이 만들어지고 나서도 유효합니다.
-* *구조적 공유(Structural Sharing)*: 가능한 한 원본의 컬렉션과 동일한 구조를 사용해서 새 컬렉션이 만들어지므로 복사를 최소화해서 성능을 향상시킵니다.
+- _불변성_: 일단 생성되면 컬렉션은 다른 시점에서 변경될 수 없습니다.
+- _지속성_: 새로운 컬렉션은 이전 컬렉션과 set과 같은 변화로부터 생성될 수 있습니다. 기존의 컬렉션은 새 컬렉션이 만들어지고 나서도 유효합니다.
+- _구조적 공유(Structural Sharing)_: 가능한 한 원본의 컬렉션과 동일한 구조를 사용해서 새 컬렉션이 만들어지므로 복사를 최소화해서 성능을 향상시킵니다.
 
 불변성은 변화를 추적하는 비용을 적게 만듭니다. 변경은 항상 새로운 객체를 생성하므로 객체에 대한 참조가 변경되었는지 여부만 확인하면 됩니다. 예를 들어 일반적인 JavaScript 코드에서는 아래와 같습니다.
 
