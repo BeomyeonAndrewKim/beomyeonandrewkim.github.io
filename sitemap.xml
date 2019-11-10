@@ -90,9 +90,6 @@
 <url> <loc>https://beomyeonandrewkim.github.io/tags/v-3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://beomyeonandrewkim.github.io/tags/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://beomyeonandrewkim.github.io/categories/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://beomyeonandrewkim.github.io/posts/javascript/immutability_one</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://beomyeonandrewkim.github.io/tags/immutability/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://beomyeonandrewkim.github.io/tags/immutable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://beomyeonandrewkim.github.io/posts/javascript/set-object-attribute</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://beomyeonandrewkim.github.io/tags/객체-프로퍼티-설정/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://beomyeonandrewkim.github.io/posts/react/rules-of-hooks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
