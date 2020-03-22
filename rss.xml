@@ -1,4 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 10 Nov 2019 11:12:24 GMT</lastBuildDate><item><title><![CDATA[[Ramda] 한 달간 함수형 프로그래밍을 구경하고 적용하면서]]></title><description><![CDATA[새로 이직해온 회사의 주요 스택은 Vue.js + Vuex + Ramda.js + Rx.js 이다.']]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/looking-functional-programming</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/looking-functional-programming</guid><pubDate>Mon, 02 Sep 2019 09:15:03 GMT</pubDate><content:encoded>&lt;h2&gt;한 달간 함수형 프로그래밍을 구경하고 적용하면서&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrea's Devlog]]></title><description><![CDATA[I'm front-end web developer, former marketer, interested in Data Visualization and PWA. Also, passionate hiking lover.]]></description><link>https://beomyeonandrewkim.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 22 Mar 2020 14:50:51 GMT</lastBuildDate><item><title><![CDATA[2020년 1분기가 끝나는 와중에 쓰는 2019년 회고]]></title><description><![CDATA[내가 성장을 위해 노력한 점이 있나 싶을 정도로 부끄러운 한해였다. 훌륭한 개발자가 되기 위해 노력은 거의 전무했다고 하면 되겠다.]]></description><link>https://beomyeonandrewkim.github.io/posts/etc/retrospect-2019</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/etc/retrospect-2019</guid><pubDate>Sun, 22 Mar 2020 09:15:03 GMT</pubDate><content:encoded>&lt;h2&gt;2020년 1분기가 끝나는 와중에 쓰는 2019년 회고&lt;/h2&gt;
+&lt;h3&gt;1. 2019년 개발자로서의 발자취&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;데일리금융그룹 노매드커넥션 재직(~2019.06)&lt;/li&gt;
+&lt;li&gt;이직 준비(2019.06~2019.08)&lt;/li&gt;
+&lt;li&gt;아드리엘 이직(2019.08~ 현재)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;2. 2019년엔 개발자로서 성장을 위해 무엇을 했는가&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;공부한 기술&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ramda.js(함수형 프로그래밍)&lt;/li&gt;
+&lt;li&gt;Vue.js&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;참여한 컨퍼런스&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://beomyeonandrewkim.github.io/posts/etc/kim-gdg&quot;&gt;GDG Seoul 면접왕 김지디지&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://beomyeonandrewkim.github.io/posts/etc/third-consalad&quot;&gt;세번째 콘샐러드 by 뱅크샐러드&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;블로그 포스팅&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reactjs.org 한국어 번역 프로젝트 참여&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://beomyeonandrewkim.github.io/posts/react/rules-of-hooks&quot;&gt;Rules of Hooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://beomyeonandrewkim.github.io/posts/react/optimizing-performance&quot;&gt;Optimizing Performance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://beomyeonandrewkim.github.io/posts/react/create-react-app-v3&quot;&gt;CRAv3 Release note 번역&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://beomyeonandrewkim.github.io/posts/javascript/looking-functional-programming&quot;&gt;함수형 프로그래밍을 적용하면서&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;3. 총평&lt;/h3&gt;
+&lt;p&gt;내가 성장을 위해 노력한 점이 있나 싶을 정도로 부끄러운 한해였다. 훌륭한 개발자가 되기 위해 노력은 거의 전무했다고 하면 되겠다.&lt;/p&gt;
+&lt;p&gt;다만 이직을 운좋게 잘해서 그런지 &lt;code class=&quot;language-text&quot;&gt;함수형 프로그래밍&lt;/code&gt;이라는 새로운 컨셉을 배워나갈 수 있었다. 극강의 코드 복잡도 개선과 함수들의 의미만 따라가면서 손쉽게 이해할 수 있는 흐름이 너무 만족스러웠다. 물론 디버깅의 어려움도 있고 모든 기능을 함수형으로 짜기엔 아직 한계가 보이기도 한다.&lt;/p&gt;
+&lt;p&gt;Vue.js를 차용하고 있고 TypeScript를 쓰고 있지 않기 때문에 현재의 주류와는 조금 거리가 있지만 미래에 투자하고 있는 마음가짐으로 즐겁게 개발을 하고 있다. 이건 마치 주식투자와 같은 기분? ㅎㅎ&lt;/p&gt;
+&lt;p&gt;이렇게 개발자의 성장으로서는 부족하고도 부족한 한해였지만 사람으로서의 나는 충분히 성장하지 않았나 싶다. 사람으로서의 내 자신을 되찾고 건강한 멘탈을 가지도록 노력했던 한해였던 것 같다. 그러한 노력은 성공으로 평가될만한 해였다.&lt;/p&gt;
+&lt;p&gt;이직한 회사는 이러한 나의 사람으로서 성장에 가장 큰 역할을 했다. 서로를 응원해주고 각자의 주장을 존중해준다. 대표님은 나에게 충분히 좋은 사람이고 능력이 있는 사람이라고 편지를 써준다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/entire_company-9ad9ee7e6fc55006680571629316fbef-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.51041666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABkpaGr5lkP//EABkQAAMBAQEAAAAAAAAAAAAAAAABAhIDIv/aAAgBAQABBQKeksdi9FQ6MpGj/8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oACAEDAQE/Aa0//8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECEiH/2gAIAQIBAT8BktKs/8QAHRAAAgEEAwAAAAAAAAAAAAAAAAEREBIhMSJBYf/aAAgBAQAGPwLkmn4dDjRN+sCp/8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAITFBYXH/2gAIAQEAAT8hCnwWBGDepzcCamIXuFAriKCb7gTQ5//aAAwDAQACAAMAAAAQNw//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QGGEf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxQf/aAAgBAgEBPxARjs8r/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBYVGx0f/aAAgBAQABPxB4Wt6RDphhsWQnX3cQqWYMtY3HLQAcFeN9Sg9lVGFtPRGuBnheDxP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;entire_company&quot;
+        title=&quot;&quot;
+        src=&quot;/static/entire_company-9ad9ee7e6fc55006680571629316fbef-d564d.jpg&quot;
+        srcset=&quot;/static/entire_company-9ad9ee7e6fc55006680571629316fbef-865fd.jpg 240w,
+/static/entire_company-9ad9ee7e6fc55006680571629316fbef-d40a0.jpg 480w,
+/static/entire_company-9ad9ee7e6fc55006680571629316fbef-d564d.jpg 960w,
+/static/entire_company-9ad9ee7e6fc55006680571629316fbef-c67c1.jpg 1440w,
+/static/entire_company-9ad9ee7e6fc55006680571629316fbef-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;center&gt;나의 2019년을 채워준 영광의 아드리엘&lt;/center&gt;
+&lt;p&gt;하루에 대부분을 보내는 회사에서 이러한 취급을 받다보니 고질병인 바닥찍는 자존감이 많이 회복되었다. 그래서 그런지 주변에 사람도 많아졌고 술자리도 많아졌다. 덕분에 내 간은 너무 괴로워했던 한해이기도 했다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/me_company-073d2c72b899af9776c0b08b8f907123-d564d.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHDM2jCIC//xAAZEAADAQEBAAAAAAAAAAAAAAABAgMRBBL/2gAIAQEAAQUCJClCvhui2u+AxSiNCu//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAEAAwEBAAAAAAAAAAAAAAABAAIRIaH/2gAIAQEABj8Cl0AnLeTc1hYWs50n/8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFh0f/aAAgBAQABPyEN+apIeXt5gw4fBh5aSj5Jl5Qdmosp0d//2gAMAwEAAgADAAAAEEQv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAgBAwEBPxCaRn//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qq4//xAAeEAEAAgMAAgMAAAAAAAAAAAABABEhMUFhcYGhwf/aAAgBAQABPxAbDw3szkhPYs9cyupgAYPqetBQX6RgFhWyBrNjv4nFOhCzmHOp/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;me_company&quot;
+        title=&quot;&quot;
+        src=&quot;/static/me_company-073d2c72b899af9776c0b08b8f907123-d564d.jpg&quot;
+        srcset=&quot;/static/me_company-073d2c72b899af9776c0b08b8f907123-865fd.jpg 240w,
+/static/me_company-073d2c72b899af9776c0b08b8f907123-d40a0.jpg 480w,
+/static/me_company-073d2c72b899af9776c0b08b8f907123-d564d.jpg 960w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;center&gt;내가 저렇게 주장(?)을 한다&lt;/center&gt;
+&lt;p&gt;내 인생에 이런 시기가 다시 올까 싶다. 충분히 더 많은 살날이 남았지만 과감하게 지금이 인생의 전성기라고 자신있게 말 할 수 있다.&lt;/p&gt;
+&lt;p&gt;내가 저런 말을 할 수 있도록 만들어준 너무 감사한 2019년이었다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Ramda] 한 달간 함수형 프로그래밍을 구경하고 적용하면서]]></title><description><![CDATA[새로 이직해온 회사의 주요 스택은 Vue.js + Vuex + Ramda.js + Rx.js 이다.']]></description><link>https://beomyeonandrewkim.github.io/posts/javascript/looking-functional-programming</link><guid isPermaLink="false">https://beomyeonandrewkim.github.io/posts/javascript/looking-functional-programming</guid><pubDate>Mon, 02 Sep 2019 09:15:03 GMT</pubDate><content:encoded>&lt;h2&gt;한 달간 함수형 프로그래밍을 구경하고 적용하면서&lt;/h2&gt;
 &lt;p&gt;새로 이직해온 회사의 주요 스택은 &lt;code class=&quot;language-text&quot;&gt;Vue.js + Vuex + Ramda.js + Rx.js&lt;/code&gt; 이다.&lt;/p&gt;
 &lt;p&gt;여기서 가장 핵심은 함수형 프로그래밍을 베이스로하는 Ramda.js와 Rx.js이다.&lt;/p&gt;
 &lt;p&gt;이직 준비를 하면서 봤던 함수형 프로그래밍에 관한 내용은 대부분 철학에 관한 이야기였다.&lt;/p&gt;
