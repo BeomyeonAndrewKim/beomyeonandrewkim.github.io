@@ -112,7 +112,7 @@ module.exports = {
         plugins: [
           {
             resolve: 'gatsby-remark-images',
-            options: { maxWidth: 960 },
+            options: { maxWidth: 960, pathPrefix: '/blog' },
           },
           {
             resolve: 'gatsby-remark-responsive-iframe',
