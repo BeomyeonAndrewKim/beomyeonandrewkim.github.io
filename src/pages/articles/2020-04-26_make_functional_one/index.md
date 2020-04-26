@@ -4,7 +4,7 @@ date: '2020-04-26T09:15:03.284Z'
 layout: post
 draft: false
 path: '/posts/functional/make-functional-one'
-category: 'functional'
+category: 'Functional'
 tags:
   - 'functional'
   - 'JavaScript'
