@@ -74,7 +74,7 @@ const insertComma = R.compose(
     R.ifElse(
       R.test(/^(?!,$)[\d,.]+$/g),
       R.ifElse(R.include('.'), numberWithDotCleaner, insertComma),
-      R.slice(0, value.length - 1)
+      R.slice(0, R.__.length - 1)
     ),
     R.trim
   );
