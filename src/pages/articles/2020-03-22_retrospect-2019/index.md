@@ -47,13 +47,13 @@ Vue.js를 차용하고 있고 TypeScript를 쓰고 있지 않기 때문에 현�
 
 이직한 회사는 이러한 나의 사람으로서 성장에 가장 큰 역할을 했다. 서로를 응원해주고 각자의 주장을 존중해준다. 대표님은 나에게 충분히 좋은 사람이고 능력이 있는 사람이라고 편지를 써준다.
 
-![entire_company](entire_company.jpg)
+![entire_company](./entire_company.jpg)
 
 <center>나의 2019년을 채워준 영광의 아드리엘</center>
 
 하루에 대부분을 보내는 회사에서 이러한 취급을 받다보니 고질병인 바닥찍는 자존감이 많이 회복되었다. 그래서 그런지 주변에 사람도 많아졌고 술자리도 많아졌다. 덕분에 내 간은 너무 괴로워했던 한해이기도 했다.
 
-![me_company](me_company.jpg)
+![me_company](./me_company.jpg)
 
 <center>내가 저렇게 주장(?)을 한다</center>
 
