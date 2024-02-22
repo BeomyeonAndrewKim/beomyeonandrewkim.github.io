@@ -155,3 +155,5 @@ subscription.unsubscribe();
 - 원하는 데이터를 받아 처리하는 Observer를 만듦
 - Observer의 subscribe를 통해 Observer를 등록
 - Observable 구독을 정지하고 자원을 해지
+
+출처 [RxJS Quick Start](https://m.yes24.com/Goods/Detail/62601794)
