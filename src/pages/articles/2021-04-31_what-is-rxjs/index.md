@@ -1,6 +1,6 @@
 ---
 title: '[함수형 프로그래밍] RxJS란?'
-date: '2021-04-31T09:15:03.284Z'
+date: '2021-04-30T09:15:03.284Z'
 layout: post
 draft: false
 path: '/posts/Functional/what-is-rx-js'
