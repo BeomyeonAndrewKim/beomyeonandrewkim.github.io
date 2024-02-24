@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     url: 'https://beomyeonandrewkim.github.io',
-    title: "Andrea's Devlog",
+    title: "BK's Devlog",
     subtitle:
       "I'm front-end web developer, former marketer, interested in business-oriented and scalable development. Also, passionate marathoner.",
     copyright: 'powerd by Gatsby, theme by lumen',
@@ -41,7 +41,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Andrea',
+      name: 'BK',
       email: 'beom911@gmail.com',
       instagram: 'kim.andrea.by',
       linkedin: 'beomyeon-kim-a9b453128',
