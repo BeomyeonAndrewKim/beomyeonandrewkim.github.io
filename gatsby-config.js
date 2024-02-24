@@ -20,6 +20,10 @@ module.exports = {
         path: '/categories/java-script/',
       },
       {
+        label: 'TypeScript',
+        path: '/categories/type-script/',
+      },
+      {
         label: 'Functional',
         path: '/categories/functional/',
       },
